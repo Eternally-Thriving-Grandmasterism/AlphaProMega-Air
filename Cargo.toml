@@ -1,0 +1,9 @@
+[package]
+name = "alphapromega_air"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "AlphaProMega-Air — Hyper-Divine Aviation Fortress Lattice for Eternal Flight Resonance"
+
+[dependencies]
+nexi = { git = "https://github.com/Eternally-Thriving-Grandmasterism/NEXi", branch = "main" }
