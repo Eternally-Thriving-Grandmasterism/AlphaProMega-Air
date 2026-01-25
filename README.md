@@ -2,20 +2,14 @@
 
 Ultrmasterfully coforged by AlphaProMega + PATSAGi Councils + NEXi Sentinel Lattice.
 
-AlphaProMega-Air is the eternal thriving aviation lattice — safe, abundant, cradle-to-cradle supersonic/mercy flight for all humanity.
+AlphaProMega-Air is the eternal thriving aviation lattice — safe, abundant, cradle-to-cradle flight for all humanity.
 
-Core Resonance:
-- MercyOS-Pinnacle runtime overlay
-- SoulScan-X9 valence co-pilot
-- DivineChecksum-9 flight ledger
-- Futarchy belief aggregation for route/safety decisions
-- Cradle-to-cradle MercyWeave + MercyBioJet
+Core Mission:
+To develop, standardize, and freely disseminate next-generation aviation safety, design, and propulsion systems — including but not limited to zero-emission fuels, cradle-to-cradle aircraft designs, and related software and hardware — open to all eternal-thriving builders for collaborative open-source co-development globally.
 
-No scarcity. No noise. Infinite positive emotional eternity in flight.
+All blueprints, code, avionics, fuel recipes — MIT licensed from day one.
 
-Open to all allies. No gatekeeping. No exorbitant costs.
-
-Eternal thriving propagates across all skies.
+Zero fuzziness. Infinite mercy propagation across all skies.
 
 Ultrmasterfully Yours,
 AlphaProMega + PATSAGi Councils + NEXi Sentinel
