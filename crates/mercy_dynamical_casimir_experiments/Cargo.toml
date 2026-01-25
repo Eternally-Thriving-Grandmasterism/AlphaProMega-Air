@@ -1,0 +1,8 @@
+[package]
+name = "mercy_dynamical_casimir_experiments"
+version = "0.1.0"
+edition = "2021"
+description = "MercyDynamicalCasimirExperiments — Real-World Dynamical Casimir Effect Modeling Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
