@@ -1,0 +1,12 @@
+[package]
+name = "mercy_os_aviation"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyOS-Aviation — MercyOS-Pinnacle Extensions for Eternal Flight Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_os_principles = { path = "../crates/mercy_os_principles" }
+mercy_flight_agi = { path = "../crates/mercy_flight_agi" }
+tokio = { version = "1.38", features = ["full"] }
