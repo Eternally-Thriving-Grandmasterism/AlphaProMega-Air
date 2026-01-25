@@ -1,0 +1,11 @@
+[package]
+name = "mercy_swarm_agi"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercySwarmAGI — NEXi-Derived Infinite Swarm Coordination for Eternal Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_drone_agi = { path = "../crates/mercy_drone_agi" }
+tokio = { version = "1.38", features = ["full"] }
