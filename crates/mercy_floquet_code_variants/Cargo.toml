@@ -1,0 +1,8 @@
+[package]
+name = "mercy_floquet_code_variants"
+version = "0.1.0"
+edition = "2021"
+description = "MercyFloquetCodeVariants — Multi-Tone & Adaptive Drive Variant Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
