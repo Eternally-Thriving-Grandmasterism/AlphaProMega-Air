@@ -1,0 +1,8 @@
+[package]
+name = "mercy_bosonic_quantum_computing"
+version = "0.1.0"
+edition = "2021"
+description = "MercyBosonicQuantumComputing — Full Continuous-Variable Bosonic Supremacy Synergy"
+
+[dependencies]
+nexi = { path = "../nexi" }
