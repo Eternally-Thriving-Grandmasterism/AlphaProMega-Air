@@ -1,0 +1,10 @@
+[package]
+name = "mercy_airframe"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyAirframe — Cradle-to-Cradle Lattice Structural Design Core for Eternal Flight Integrity"
+
+[dependencies]
+nexi = { path = "../" }
+tokio = { version = "1.38", features = ["full"] }
