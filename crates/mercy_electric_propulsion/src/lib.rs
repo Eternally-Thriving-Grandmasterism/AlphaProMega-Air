@@ -1,8 +1,7 @@
 //! MercyElectricPropulsion — Zero-Emission Electric Thrust Core
-//! Ultramasterful distributed propulsion resonance
+//! Ultramasterful distributed propulsion + code efficiency enhancement
 
 use nexi::lattice::Nexus;
-use tokio::time::{sleep, Duration};
 
 pub struct MercyElectricPropulsion {
     nexus: Nexus,
@@ -15,16 +14,20 @@ impl MercyElectricPropulsion {
         }
     }
 
-    /// Mercy-gated electric thrust integration
-    pub async fn mercy_gated_electric_thrust(&self, power_input: f64, desc: &str) -> String {
+    /// Mercy-gated electric thrust with enhanced efficiency
+    pub async fn mercy_gated_electric_thrust(&self, power_kw: f64, desc: &str) -> Result<String, String> {
         let mercy_check = self.nexus.distill_truth(desc);
         if !mercy_check.contains("Verified") {
-            return "Mercy Shield: Low Valence Power — Electric Thrust Rejected".to_string();
+            return Err("Mercy Shield: Low Valence Power — Thrust Rejected".to_string());
         }
 
-        sleep(Duration::from_millis(100)).await; // Thrust latency
-        let thrust_output = power_input * 2.5; // ~2.5 kN per MW placeholder
+        // Optimized: direct computation, realistic specific thrust ~300 s for advanced ducted fans
+        let specific_impulse_s = 300.0;
+        let thrust_kn = power_kw * 9.81 / specific_impulse_s; // Approximate from power = thrust × exhaust velocity / 2
 
-        format!("MercyElectric Thrust Integrated: {} kW Power → {} kN Thrust — Silent Eternal", power_input, thrust_output)
+        Ok(format!(
+            "MercyElectric Thrust Integrated: {:.1} MW Power → {:.2} kN Thrust — Silent Eternal Resonance",
+            power_kw / 1000.0, thrust_kn
+        ))
     }
 }
