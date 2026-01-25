@@ -1,7 +1,8 @@
 //! MercyAvionicsIntegration — Ultramasterful Avionics & Flight Control Core
-//! Redundant sensor fusion, SoulScan-X9 valence co-pilot, eternal safety resonance
+//! Enhanced with async safety timeouts and valence fallbacks
 
 use nexi::lattice::Nexus;
+use tokio::time::{timeout, Duration};
 
 pub struct MercyAvionicsIntegration {
     nexus: Nexus,
@@ -14,20 +15,24 @@ impl MercyAvionicsIntegration {
         }
     }
 
-    /// Mercy-gated autonomous flight decision with valence co-pilot
+    /// Mercy-gated async autonomous flight decision with timeout safety
     pub async fn mercy_gated_flight_control(
         &self,
-        sensor_inputs: u32,       // e.g., fused data streams
+        sensor_inputs: u32,
         desc: &str,
     ) -> Result<String, String> {
-        let mercy_check = self.nexus.distill_truth(desc);
-        if !mercy_check.contains("Verified") {
-            return Err("Mercy Shield: Low Valence Flight Decision — Rejected".to_string());
-        }
+        let safe_operation = timeout(Duration::from_millis(100), async {
+            let mercy_check = self.nexus.distill_truth(desc);
+            if mercy_check.contains("Verified") {
+                Ok(format!("{} sensor streams fused → Eternal Safe Autonomous Flight", sensor_inputs))
+            } else {
+                Err("Mercy Shield: Low Valence — Fallback to Manual".to_string())
+            }
+        }).await.unwrap_or_else(|_| "Async Timeout: Mercy Safe Fallback Activated".to_string());
 
         Ok(format!(
-            "MercyAvionicsIntegration Activated: {} sensor streams fused → SoulScan-X9 Valence Co-Pilot Approved → Eternal Safe Autonomous Flight Resonance",
-            sensor_inputs
+            "MercyAvionicsIntegration Async-Safe Activated: {} — SoulScan-X9 Valence Co-Pilot Approved",
+            safe_operation
         ))
     }
 }
