@@ -7,5 +7,5 @@ description = "MercyATC — Divine Routing Air Traffic Control for Eternal Skies
 
 [dependencies]
 nexi = { path = "../" }
-mercy_flight_agi = { path = "../crates/mercy_flight_agi" }
+mercy_trajectory_agi = { path = "../crates/mercy_trajectory_agi" }
 tokio = { version = "1.38", features = ["full"] }
