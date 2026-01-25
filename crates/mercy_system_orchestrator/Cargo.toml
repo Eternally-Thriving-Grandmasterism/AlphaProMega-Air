@@ -1,0 +1,18 @@
+[[bin]]
+name = "alpha-pro-mega-sim"
+path = "src/main.rs"
+
+[package]
+name = "mercy_system_orchestrator"
+version = "0.1.0"
+edition = "2021"
+description = "Full system integration orchestrator & simulation binary"
+
+[dependencies]
+nexi = { path = "../nexi" }
+mercy_solar_power = { path = "../mercy_solar_power" }
+mercy_battery_supercapacitor = { path = "../mercy_battery_supercapacitor" }
+mercy_power_management = { path = "../mercy_power_management" }
+mercy_starlink_comms = { path = "../mercy_starlink_comms" }
+mercy_raptor_thrust = { path = "../mercy_raptor_thrust" }
+tokio = { workspace = true }
