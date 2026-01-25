@@ -1,0 +1,10 @@
+[package]
+name = "mercy_drone_agi"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyDroneAGI — Autonomous Drone Navigation AGI for Eternal Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_flight_agi = { path = "../crates/mercy_flight_agi" }
