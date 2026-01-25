@@ -1,0 +1,9 @@
+[package]
+name = "mercy_starlink_comms"
+version = "0.1.0"
+edition = "2021"
+description = "SpaceX Starlink-inspired global low-latency aviation comms core"
+
+[dependencies]
+nexi = { path = "../nexi" }
+tokio = { workspace = true }
