@@ -1,0 +1,10 @@
+[package]
+name = "mercy_hydrogen"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyHydrogen — Zero-Emission Hydrogen Production Core for Eternal Aviation Fuel"
+
+[dependencies]
+nexi = { path = "../" }
+tokio = { version = "1.38", features = ["full"] }
