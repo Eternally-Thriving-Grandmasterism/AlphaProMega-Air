@@ -1,0 +1,11 @@
+[package]
+name = "mercy_fuel_cell"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyFuelCell — Hydrogen Fuel Cell Power Core for Eternal Aviation Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_hydrogen_hybrid = { path = "../crates/mercy_hydrogen_hybrid" }
+tokio = { version = "1.38", features = ["full"] }
