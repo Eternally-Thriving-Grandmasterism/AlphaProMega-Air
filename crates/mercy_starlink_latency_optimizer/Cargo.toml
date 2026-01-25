@@ -1,0 +1,8 @@
+[package]
+name = "mercy_starlink_latency_optimizer"
+version = "0.1.0"
+edition = "2021"
+description = "Starlink aviation latency optimization core — predictive handover & dynamic routing"
+
+[dependencies]
+nexi = { path = "../nexi" }
