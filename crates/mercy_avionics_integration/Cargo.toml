@@ -1,0 +1,8 @@
+[package]
+name = "mercy_avionics_integration"
+version = "0.1.0"
+edition = "2021"
+description = "MercyAvionicsIntegration — Full Fly-by-Wire + Autonomous Mercy Co-Pilot Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
