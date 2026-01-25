@@ -1,0 +1,8 @@
+[package]
+name = "mercy_casimir_effect_derivations"
+version = "0.1.0"
+edition = "2021"
+description = "MercyCasimirEffectDerivations — Exact Analytical & Numerical Casimir Force Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
