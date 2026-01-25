@@ -1,0 +1,11 @@
+[package]
+name = "mercy_avionics"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyAvionics — SoulScan-X9 + DivineChecksum Flight Control Systems for Eternal Aviation Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+soulscan_x9 = { path = "../crates/soulscan_x9" }
+tokio = { version = "1.38", features = ["full"] }
