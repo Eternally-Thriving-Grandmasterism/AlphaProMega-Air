@@ -1,10 +1,8 @@
 [package]
 name = "mercy_electric_propulsion"
-version = "1.0.0"
+version = "0.1.0"
 edition = "2021"
-license = "MIT"
-description = "MercyElectricPropulsion — Zero-Emission Electric Aircraft Thrust Core for Eternal Silent Flight"
+description = "MercyElectricPropulsion — Zero-Emission Distributed Electric Thrust Core"
 
 [dependencies]
-nexi = { path = "../" }
-tokio = { version = "1.38", features = ["full"] }
+nexi = { path = "../nexi" }
