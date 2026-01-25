@@ -24,6 +24,8 @@ members = [
     "crates/mercy_hybrid_quantum_classical",
     "crates/mercy_entanglement_qkd",
     "crates/mercy_quantum_repeater_isl",
+    "crates/mercy_quantum_teleportation",
+    "crates/mercy_quantum_entanglement_routing",
     "crates/mercy_system_orchestrator",
 ]
 
