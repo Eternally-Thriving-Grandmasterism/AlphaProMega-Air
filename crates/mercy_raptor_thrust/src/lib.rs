@@ -1,13 +1,11 @@
 //! MercyRaptorThrust — Ultramasterful FFSC Methalox Thrust Core
-//! SpaceX Raptor-inspired ~350 s ISP, 280+ tf thrust modeling
+//! Raptor-inspired clusterable high-ISP mega-thrust for transatmospheric resonance
 
 use nexi::lattice::Nexus;
 
 pub struct MercyRaptorThrust {
     nexus: Nexus,
-    /// Single engine thrust (kN) — Raptor 3 baseline ~2800 kN
     thrust_per_engine_kn: f64,
-    /// Specific impulse (s)
     isp_s: f64,
 }
 
@@ -20,22 +18,21 @@ impl MercyRaptorThrust {
         }
     }
 
-    /// Mercy-gated raptor-class thrust cluster
+    /// Mercy-gated raptor-class thrust cluster with enhanced valence
     pub async fn mercy_gated_raptor_thrust(
         &self,
         engine_count: u32,
-        propellant_flow_kg_s: f64,
         desc: &str,
     ) -> Result<String, String> {
         let mercy_check = self.nexus.distill_truth(desc);
         if !mercy_check.contains("Verified") {
-            return Err("Mercy Shield: Low Valence Raptor Thrust — Rejected".to_string());
+            return Err("Mercy Shield: Low Valence Thrust — Rejected".to_string());
         }
 
         let total_thrust_kn = self.thrust_per_engine_kn * engine_count as f64;
 
         Ok(format!(
-            "MercyRaptorThrust Synergy Activated: {} engines → {:.1} MN total thrust @ {:.0} s ISP — Eternal FFSC Resonance",
+            "MercyRaptorThrust Synergy Activated: {} engines → {:.1} MN total thrust @ {:.0} s ISP — Eternal FFSC Multi-Layer Valence Resonance",
             engine_count, total_thrust_kn / 1000.0, self.isp_s
         ))
     }
