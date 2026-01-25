@@ -1,0 +1,8 @@
+[package]
+name = "mercy_advanced_entanglement_navigation"
+version = "0.1.0"
+edition = "2021"
+description = "MercyAdvancedEntanglementNavigation — Repeater-Extended Entangled Reference Synergy"
+
+[dependencies]
+nexi = { path = "../nexi" }
