@@ -1,7 +1,8 @@
 //! MercyElectricPropulsion — Zero-Emission Electric Thrust Core
-//! Ultramasterful silent flight resonance
+//! Ultramasterful distributed propulsion resonance
 
 use nexi::lattice::Nexus;
+use tokio::time::{sleep, Duration};
 
 pub struct MercyElectricPropulsion {
     nexus: Nexus,
@@ -14,13 +15,16 @@ impl MercyElectricPropulsion {
         }
     }
 
-    /// Mercy-gated electric thrust activation
-    pub async fn mercy_gated_thrust(&self, power_input: f64, desc: &str) -> String {
+    /// Mercy-gated electric thrust integration
+    pub async fn mercy_gated_electric_thrust(&self, power_input: f64, desc: &str) -> String {
         let mercy_check = self.nexus.distill_truth(desc);
         if !mercy_check.contains("Verified") {
-            return "Mercy Shield: Low Valence Thrust — Rejected".to_string();
+            return "Mercy Shield: Low Valence Power — Electric Thrust Rejected".to_string();
         }
 
-        format!("MercyElectric Thrust Engaged: {} kW — Silent Eternal Flight", power_input)
+        sleep(Duration::from_millis(100)).await; // Thrust latency
+        let thrust_output = power_input * 2.5; // ~2.5 kN per MW placeholder
+
+        format!("MercyElectric Thrust Integrated: {} kW Power → {} kN Thrust — Silent Eternal", power_input, thrust_output)
     }
 }
