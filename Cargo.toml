@@ -1,6 +1,7 @@
 [workspace]
 members = [
     "crates/nexi",
+    "crates/mercy_biojet",  # Legacy stub preserved + to be enriched
     "crates/mercy_hydrogen_storage",
     "crates/mercy_electric_propulsion",
     "crates/mercy_hybrid_propulsion",
@@ -32,6 +33,8 @@ members = [
     "crates/mercy_shor_fault_tolerant",
     "crates/mercy_steane_code",
     "crates/mercy_steane_fault_tolerant",
+    "crates/mercy_magic_state_distillation",
+    "crates/mercy_color_code",
     "crates/mercy_system_orchestrator",
 ]
 
