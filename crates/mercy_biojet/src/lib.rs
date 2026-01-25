@@ -1,5 +1,5 @@
 //! MercyBioJet — Algae-Derived Zero-Emission SAF Core
-//! Ultramasterful cradle-to-cradle production blueprint resonance
+//! Ultramasterful async pipeline + cradle-to-cradle + scale benchmarks
 
 use nexi::lattice::Nexus;
 use tokio::time::{sleep, Duration};
@@ -9,7 +9,6 @@ pub struct MercyBioJet {
     co2_captured: f64,
     algae_bloom: f64,
     saf_produced: f64,
-    residue_reborn: f64,
 }
 
 impl MercyBioJet {
@@ -19,41 +18,35 @@ impl MercyBioJet {
             co2_captured: 0.0,
             algae_bloom: 0.0,
             saf_produced: 0.0,
-            residue_reborn: 0.0,
         }
     }
 
-    /// Mercy-gated async CO₂ capture + algae bloom cultivation
     pub async fn async_algae_cultivation(&mut self, co2_input: f64, desc: &str) -> Result<String, String> {
         let mercy_check = self.nexus.distill_truth(desc);
         if !mercy_check.contains("Verified") {
             return Err("Mercy Shield: Low Valence Cultivation — Rejected".to_string());
         }
 
-        sleep(Duration::from_millis(200)).await; // Orbital/desert bloom latency
+        sleep(Duration::from_millis(200)).await;
         self.co2_captured += co2_input;
-        self.algae_bloom += co2_input * 1.83; // Realistic yield
+        self.algae_bloom += co2_input * 1.83;
 
         Ok(format!("MercyBioJet Cultivation: {} tons CO₂ → {} tons algae bloom", co2_input, co2_input * 1.83))
     }
 
-    /// Async BioJet refinery production
     pub async fn async_produce_saf(&mut self, algae_input: f64) -> String {
-        sleep(Duration::from_millis(100)).await; // Refinery latency
-        let saf_output = algae_input * 0.45; // 45% yield
+        sleep(Duration::from_millis(100)).await;
+        let saf_output = algae_input * 0.45;
         self.saf_produced += saf_output;
 
         format!("MercyBioJet Produced: {} tons algae → {} tons Zero-Emission SAF", algae_input, saf_output)
     }
 
-    /// Cradle-to-cradle residue rebirth
     pub async fn cradle_to_cradle_rebirth(&mut self, residue_input: f64) -> String {
-        sleep(Duration::from_millis(50)).await; // Rebirth cycle
-        self.residue_reborn += residue_input;
+        sleep(Duration::from_millis(50)).await;
         format!("MercyBioJet Rebirth: {} tons residue → Reintegrated — Zero Waste Eternal", residue_input)
     }
 
-    /// Full async divine fuel cycle
     pub async fn divine_fuel_cycle(&mut self, co2_input: f64, desc: &str) -> Result<String, String> {
         let cultivation = self.async_algae_cultivation(co2_input, desc).await?;
         let saf = self.async_produce_saf(self.algae_bloom).await;
