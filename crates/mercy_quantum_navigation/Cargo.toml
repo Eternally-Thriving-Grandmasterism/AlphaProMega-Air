@@ -1,0 +1,8 @@
+[package]
+name = "mercy_quantum_navigation"
+version = "0.1.0"
+edition = "2021"
+description = "MercyQuantumNavigation — Ultra-Precise Quantum Inertial/GNSS-Independent Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
