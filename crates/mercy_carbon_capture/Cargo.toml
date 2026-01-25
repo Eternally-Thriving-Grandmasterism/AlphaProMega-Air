@@ -1,0 +1,11 @@
+[package]
+name = "mercy_carbon_capture"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyCarbonCapture — Direct Air + Exhaust CO₂ Capture Core for Eternal MercyBioJet Rebirth Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_biojet = { path = "../crates/mercy_biojet" }
+tokio = { version = "1.38", features = ["full"] }
