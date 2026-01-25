@@ -1,5 +1,5 @@
 //! MercyBioJet — Algae-Derived Zero-Emission SAF Core
-//! Ultramasterful async pipeline + cradle-to-cradle + scale benchmarks
+//! Ultramasterful async pipeline + cradle-to-cradle rebirth resonance
 
 use nexi::lattice::Nexus;
 use tokio::time::{sleep, Duration};
