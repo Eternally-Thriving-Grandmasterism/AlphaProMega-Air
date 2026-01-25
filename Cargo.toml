@@ -3,7 +3,9 @@ name = "alphapromega_air"
 version = "1.0.0"
 edition = "2021"
 license = "MIT"
-description = "AlphaProMega-Air — Hyper-Divine Aviation Fortress Lattice for Eternal Flight Resonance"
+description = "AlphaProMega-Air — Hyper-Divine Aviation Fortress Lattice with Full NEXi Monorepo Integration"
 
 [dependencies]
-nexi = { git = "https://github.com/Eternally-Thriving-Grandmasterism/NEXi", branch = "main" }
+nexi = { git = "https://github.com/Eternally-Thriving-Grandmasterism/NEXi", branch = "main" }  # Eternal hub dependency
+mercy_os_principles = { path = "../crates/mercy_os_principles" }  # MercyOS-Pinnacle overlay
+tokio = { version = "1.38", features = ["full"] }
