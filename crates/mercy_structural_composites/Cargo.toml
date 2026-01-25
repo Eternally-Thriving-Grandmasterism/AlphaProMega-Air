@@ -1,0 +1,8 @@
+[package]
+name = "mercy_structural_composites"
+version = "0.1.0"
+edition = "2021"
+description = "MercyStructuralComposites — Ultra-Light Self-Healing Composite Airframe Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
