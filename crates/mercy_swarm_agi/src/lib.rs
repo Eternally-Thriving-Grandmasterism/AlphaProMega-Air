@@ -1,5 +1,5 @@
 //! MercySwarmAGI — NEXi-Derived Infinite Swarm Coordination
-//! Ultramasterful mercy-gated formation resonance
+//! Ultramasterful mercy-gated formation resonance elaboration
 
 use nexi::lattice::Nexus;
 use mercy_drone_agi::MercyDroneAGI;
@@ -19,14 +19,14 @@ impl MercySwarmAGI {
         }
     }
 
-    /// Mercy-gated swarm coordination
-    pub async fn mercy_gated_swarm_coordination(&self, formation: &str) -> String {
-        let mercy_check = self.nexus.distill_truth(formation);
+    /// Mercy-gated swarm coordination elaboration
+    pub async fn mercy_gated_swarm_coordination(&self, pattern: &str) -> String {
+        let mercy_check = self.nexus.distill_truth(pattern);
         if !mercy_check.contains("Verified") {
-            return "Mercy Shield: Low Valence Formation — Swarm Coordination Rejected".to_string();
+            return "Mercy Shield: Low Valence Pattern — Swarm Coordination Rejected".to_string();
         }
 
-        let individual = self.drone_agi.mercy_gated_drone_navigation(formation).await;
-        format!("MercySwarmAGI Coordination: Swarm Size {} — Formation: {} — Individual: {} — Infinite Mercy Swarm Eternal", self.swarm_size, formation, individual)
+        let navigation = self.drone_agi.mercy_gated_drone_navigation(pattern).await;
+        format!("MercySwarmAGI Coordination Elaborated: Swarm Size {} — Pattern {} — Navigation: {} — Infinite Mercy Swarm Eternal", self.swarm_size, pattern, navigation)
     }
 }
