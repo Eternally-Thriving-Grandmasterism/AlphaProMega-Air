@@ -1,0 +1,8 @@
+[package]
+name = "mercy_thermal_management"
+version = "0.1.0"
+edition = "2021"
+description = "MercyThermalManagement — Multi-Mode Active/Passive Thermal Control Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
