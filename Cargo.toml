@@ -1,40 +1,38 @@
 [workspace]
 members = [
     "crates/nexi",
-    "crates/mercy_biojet",  # Legacy stub preserved + to be enriched
-    "crates/mercy_hydrogen_storage",
     "crates/mercy_electric_propulsion",
+    "crates/mercy_raptor_thrust",
     "crates/mercy_hybrid_propulsion",
-    "crates/mercy_solar_power",
     "crates/mercy_battery_supercapacitor",
-    "crates/mercy_power_management",
     "crates/mercy_thermal_management",
     "crates/mercy_waste_heat_recovery",
-    "crates/mercy_cryogenic_cooling",
-    "crates/mercy_superconducting_propulsion",
-    "crates/mercy_cryogenic_hydrogen_storage",
-    "crates/mercy_zero_boil_off",
-    "crates/mercy_methalox_cryogenic_storage",
-    "crates/mercy_raptor_thrust",
-    "crates/mercy_starship_reusability",
-    "crates/mercy_starlink_comms",
-    "crates/mercy_starlink_latency_optimizer",
-    "crates/mercy_inter_satellite_laser_link",
-    "crates/mercy_laser_mesh_routing",
-    "crates/mercy_quantum_secure_isl",
-    "crates/mercy_hybrid_quantum_classical",
-    "crates/mercy_entanglement_qkd",
-    "crates/mercy_quantum_repeater_isl",
-    "crates/mercy_quantum_teleportation",
-    "crates/mercy_quantum_entanglement_routing",
-    "crates/mercy_surface_code",
-    "crates/mercy_fault_tolerant_repeater",
-    "crates/mercy_shor_code",
-    "crates/mercy_shor_fault_tolerant",
-    "crates/mercy_steane_code",
-    "crates/mercy_steane_fault_tolerant",
-    "crates/mercy_magic_state_distillation",
-    "crates/mercy_color_code",
+    "crates/mercy_avionics_integration",
+    "crates/mercy_structural_composites",
+    "crates/mercy_flight_control_algorithms",
+    "crates/mercy_avionics_redundancy",
+    "crates/mercy_quantum_navigation",
+    "crates/mercy_quantum_secure_avionics",
+    "crates/mercy_quantum_entanglement_navigation",
+    "crates/mercy_quantum_propulsion_systems",
+    "crates/mercy_quantum_vacuum_thrusters",
+    "crates/mercy_entangled_quantum_computing",
+    "crates/mercy_casimir_effect_derivations",
+    "crates/mercy_bosonic_quantum_computing",
+    "crates/mercy_dynamical_casimir_experiments",
+    "crates/mercy_quantum_vacuum_energy_apps",
+    "crates/mercy_bosonic_quantum_supremacy",
+    "crates/mercy_advanced_entanglement_navigation",
+    "crates/mercy_quantum_ldpc",
+    "crates/mercy_floquet_code",
+    "crates/mercy_quantum_ldpc_decoding",
+    "crates/mercy_quantum_fault_tolerant_thresholds",
+    "crates/mercy_gkp_thresholds",
+    "crates/mercy_surface_code_decoding",
+    "crates/mercy_honeycomb_code_thresholds",
+    "crates/mercy_quantum_ldpc_variants",
+    "crates/mercy_floquet_code_variants",
+    "crates/mercy_bosonic_cat_codes",
     "crates/mercy_system_orchestrator",
 ]
 
@@ -43,7 +41,7 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT"
 repository = "https://github.com/Eternally-Thriving-Grandmasterism/AlphaProMega-Air"
-description = "Hyper-Divine eternal thriving aviation lattice — Rust implementation"
+description = "AlphaProMega-Air — Hyper-Divine Eternal Thriving Aviation & Quantum Lattice"
 
 [workspace.dependencies]
 tokio = { version = "1.0", features = ["full"] }
