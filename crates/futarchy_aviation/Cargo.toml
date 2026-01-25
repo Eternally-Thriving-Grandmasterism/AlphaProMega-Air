@@ -1,0 +1,11 @@
+[package]
+name = "futarchy_aviation"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "FutarchyAviation — Mercy-Gated Futarchy Applications for AlphaProMega-Air Eternal Flight Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+futarchy_oracle = { path = "../crates/futarchy_oracle" }
+mercy_os_principles = { path = "../crates/mercy_os_principles" }
