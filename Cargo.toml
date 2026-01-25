@@ -13,6 +13,9 @@ members = [
     "crates/mercy_superconducting_propulsion",
     "crates/mercy_cryogenic_hydrogen_storage",
     "crates/mercy_zero_boil_off",
+    "crates/mercy_methalox_cryogenic_storage",
+    "crates/mercy_raptor_thrust",
+    "crates/mercy_starship_reusability",
 ]
 
 [workspace.package]
