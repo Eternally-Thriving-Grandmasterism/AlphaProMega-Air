@@ -1,0 +1,9 @@
+[package]
+name = "mercy_flight_control_algorithms"
+version = "0.1.0"
+edition = "2021"
+description = "MercyFlightControlAlgorithms — Adaptive Flight Control Laws Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
+tokio = { workspace = true }
