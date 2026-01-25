@@ -1,0 +1,8 @@
+[package]
+name = "mercy_waste_heat_recovery"
+version = "0.1.0"
+edition = "2021"
+description = "MercyWasteHeatRecovery — Thermoelectric/Rankine Waste Heat → Power Synergy"
+
+[dependencies]
+nexi = { path = "../nexi" }
