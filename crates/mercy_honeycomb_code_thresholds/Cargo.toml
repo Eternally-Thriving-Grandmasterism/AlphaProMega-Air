@@ -1,0 +1,8 @@
+[package]
+name = "mercy_honeycomb_code_thresholds"
+version = "0.1.0"
+edition = "2021"
+description = "MercyHoneycombCodeThresholds — Rotated Honeycomb Lattice Threshold Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
