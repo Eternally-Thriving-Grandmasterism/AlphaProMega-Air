@@ -1,0 +1,8 @@
+[package]
+name = "mercy_bosonic_quantum_supremacy"
+version = "0.1.0"
+edition = "2021"
+description = "MercyBosonicQuantumSupremacy — Full CV Bosonic Supremacy Algorithm Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
