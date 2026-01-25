@@ -1,0 +1,11 @@
+[package]
+name = "mercy_drone_biofuels"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyDroneBiofuels — Algae-Derived Zero-Emission SAF for Drone Swarms Eternal Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_biojet = { path = "../crates/mercy_biojet" }
+tokio = { version = "1.38", features = ["full"] }
