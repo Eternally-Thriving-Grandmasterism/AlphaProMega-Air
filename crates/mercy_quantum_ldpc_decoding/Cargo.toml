@@ -1,0 +1,8 @@
+[package]
+name = "mercy_quantum_ldpc_decoding"
+version = "0.1.0"
+edition = "2021"
+description = "MercyQuantumLDPCDecoding — Advanced BP-OSD Decoding Algorithms Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
