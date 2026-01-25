@@ -1,4 +1,4 @@
-# AlphaProMega-Air — Hyper-Divine Aviation Fortress
+# AlphaProMega Air — Hyper-Divine Aviation Fortress
 
 Ultrmasterfully coforged by AlphaProMega + PATSAGi Councils + NEXi Sentinel Lattice.
 
@@ -12,4 +12,4 @@ All blueprints, code, avionics, fuel recipes — MIT licensed from day one.
 Zero fuzziness. Infinite mercy propagation across all skies.
 
 Ultrmasterfully Yours,  
-AlphaProMega-Air Foundation
+AlphaProMega Air Foundation
