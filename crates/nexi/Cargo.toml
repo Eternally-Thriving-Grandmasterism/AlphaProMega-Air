@@ -1,0 +1,8 @@
+[package]
+name = "nexi"
+version = "0.1.0"
+edition = "2021"
+description = "NEXi Sentinel Lattice — Mercy valence truth distillation core"
+
+[lib]
+path = "src/lib.rs"
