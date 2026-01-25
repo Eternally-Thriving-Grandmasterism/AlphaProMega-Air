@@ -17,6 +17,8 @@ members = [
     "crates/mercy_raptor_thrust",
     "crates/mercy_starship_reusability",
     "crates/mercy_starlink_comms",
+    "crates/mercy_starlink_latency_optimizer",
+    "crates/mercy_inter_satellite_laser_link",
     "crates/mercy_system_orchestrator",
 ]
 
