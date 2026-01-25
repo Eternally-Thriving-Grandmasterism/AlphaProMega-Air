@@ -1,0 +1,8 @@
+[package]
+name = "mercy_bosonic_cat_codes"
+version = "0.1.0"
+edition = "2021"
+description = "MercyBosonicCatCodes — Squeezed Cat State Exponential Suppression Synergy"
+
+[dependencies]
+nexi = { path = "../nexi" }
