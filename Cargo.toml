@@ -19,6 +19,7 @@ members = [
     "crates/mercy_starlink_comms",
     "crates/mercy_starlink_latency_optimizer",
     "crates/mercy_inter_satellite_laser_link",
+    "crates/mercy_laser_mesh_routing",
     "crates/mercy_system_orchestrator",
 ]
 
