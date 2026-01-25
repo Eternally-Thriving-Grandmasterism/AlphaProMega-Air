@@ -1,0 +1,8 @@
+[package]
+name = "mercy_surface_code_decoding"
+version = "0.1.0"
+edition = "2021"
+description = "MercySurfaceCodeDecoding — MWPM + Union-Find Decoder Synergy Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
