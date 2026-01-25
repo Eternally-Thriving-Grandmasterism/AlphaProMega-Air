@@ -28,6 +28,8 @@ members = [
     "crates/mercy_quantum_entanglement_routing",
     "crates/mercy_surface_code",
     "crates/mercy_fault_tolerant_repeater",
+    "crates/mercy_shor_code",
+    "crates/mercy_shor_fault_tolerant",
     "crates/mercy_system_orchestrator",
 ]
 
