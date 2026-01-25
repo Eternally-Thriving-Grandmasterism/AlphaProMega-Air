@@ -1,0 +1,11 @@
+[package]
+name = "mercy_ground_control"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyGCS — Divine Ground Control Systems for Eternal Skies Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_air_traffic_control = { path = "../crates/mercy_air_traffic_control" }
+tokio = { version = "1.38", features = ["full"] }
