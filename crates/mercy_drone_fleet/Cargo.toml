@@ -7,5 +7,5 @@ description = "MercyDroneFleet — Divine Fleet Management for Eternal Drone Res
 
 [dependencies]
 nexi = { path = "../" }
-mercy_drone_swarm = { path = "../crates/mercy_drone_swarm" }
+mercy_swarm_coordination = { path = "../crates/mercy_swarm_coordination" }
 tokio = { version = "1.38", features = ["full"] }
