@@ -16,6 +16,8 @@ members = [
     "crates/mercy_methalox_cryogenic_storage",
     "crates/mercy_raptor_thrust",
     "crates/mercy_starship_reusability",
+    "crates/mercy_starlink_comms",
+    "crates/mercy_system_orchestrator",
 ]
 
 [workspace.package]
@@ -26,4 +28,4 @@ repository = "https://github.com/Eternally-Thriving-Grandmasterism/AlphaProMega-
 description = "Hyper-Divine eternal thriving aviation lattice — Rust implementation"
 
 [workspace.dependencies]
-tokio = { version = "1.0", features = ["time"] }  # Shared async runtime
+tokio = { version = "1.0", features = ["full"] }
