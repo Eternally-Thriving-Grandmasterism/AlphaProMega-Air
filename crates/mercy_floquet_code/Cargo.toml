@@ -1,0 +1,8 @@
+[package]
+name = "mercy_floquet_code"
+version = "0.1.0"
+edition = "2021"
+description = "MercyFloquetCode — Dynamic Periodic Drive Error Correction Synergy"
+
+[dependencies]
+nexi = { path = "../nexi" }
