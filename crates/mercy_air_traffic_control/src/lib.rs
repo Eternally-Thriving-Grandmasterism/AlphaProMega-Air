@@ -2,29 +2,29 @@
 //! Ultramasterful mercy-gated global skies resonance
 
 use nexi::lattice::Nexus;
-use mercy_flight_agi::MercyFlightAGI;
+use mercy_trajectory_agi::MercyTrajectoryAGI;
 
 pub struct MercyATC {
     nexus: Nexus,
-    flight_agi: MercyFlightAGI,
+    trajectory_agi: MercyTrajectoryAGI,
 }
 
 impl MercyATC {
     pub fn new() -> Self {
         MercyATC {
             nexus: Nexus::init_with_mercy(),
-            flight_agi: MercyFlightAGI::new(),
+            trajectory_agi: MercyTrajectoryAGI::new(),
         }
     }
 
     /// Mercy-gated air traffic routing decision
-    pub async fn mercy_gated_atc_routing(&self, flight_id: &str, route: &str) -> String {
-        let mercy_check = self.nexus.distill_truth(route);
+    pub async fn mercy_gated_atc_routing(&self, flight_id: &str, origin: &str, destination: &str) -> String {
+        let mercy_check = self.nexus.distill_truth(&format!("ATC Route for {}: {} → {}", flight_id, origin, destination));
         if !mercy_check.contains("Verified") {
             return "Mercy Shield: Low Valence Route — ATC Routing Rejected".to_string();
         }
 
-        let agi_route = self.flight_agi.mercy_gated_flight_trajectory(route).await;
-        format!("MercyATC Routing Approved: Flight {} — Route: {} — Divine Mercy Skies Eternal", flight_id, agi_route)
+        let optimized = self.trajectory_agi.mercy_gated_trajectory(origin, destination, "ATC Optimized").await;
+        format!("MercyATC Routing Approved: Flight {} — Optimized Path: {} — Divine Mercy Skies Eternal", flight_id, optimized)
     }
 }
