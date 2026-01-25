@@ -1,0 +1,8 @@
+[package]
+name = "mercy_quantum_ldpc_variants"
+version = "0.1.0"
+edition = "2021"
+description = "MercyQuantumLDPCVariants — Hypergraph/Lifted/Bicycle LDPC Variant Synergy"
+
+[dependencies]
+nexi = { path = "../nexi" }
