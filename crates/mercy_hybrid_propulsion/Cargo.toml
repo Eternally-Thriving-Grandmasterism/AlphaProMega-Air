@@ -1,0 +1,12 @@
+[package]
+name = "mercy_hybrid_propulsion"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyHybridPropulsion — Hybrid Electric-SAF Thrust Core for Infinite Range Eternal Flight"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_electric_propulsion = { path = "../crates/mercy_electric_propulsion" }
+mercy_biojet = { path = "../crates/mercy_biojet" }
+tokio = { version = "1.38", features = ["full"] }
