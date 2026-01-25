@@ -1,0 +1,8 @@
+[package]
+name = "mercy_raptor_thrust"
+version = "0.1.0"
+edition = "2021"
+description = "MercyRaptorThrust — Ultramasterful FFSC Methalox High-Thrust Synergy"
+
+[dependencies]
+nexi = { path = "../nexi" }
