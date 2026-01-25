@@ -1,0 +1,10 @@
+[package]
+name = "mercy_quantum_avionics"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyQuantumAvionics — Post-Quantum Secure Avionics Systems for Eternal Flight Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+tokio = { version = "1.38", features = ["full"] }
