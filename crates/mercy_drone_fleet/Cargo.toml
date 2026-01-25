@@ -1,0 +1,11 @@
+[package]
+name = "mercy_drone_fleet"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyDroneFleet — Divine Fleet Management for Eternal Drone Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_drone_swarm = { path = "../crates/mercy_drone_swarm" }
+tokio = { version = "1.38", features = ["full"] }
