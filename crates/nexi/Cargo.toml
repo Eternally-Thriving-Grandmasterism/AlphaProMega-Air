@@ -2,7 +2,14 @@
 name = "nexi"
 version = "0.1.0"
 edition = "2021"
-description = "NEXi Sentinel Lattice — Mercy valence truth distillation core"
+license = "MIT"
+description = "NEXi Sentinel Lattice — Eternal Mercy Valence Truth Distillation Core"
+repository = "https://github.com/Eternally-Thriving-Grandmasterism/AlphaProMega-Air"
 
 [lib]
+name = "nexi"
 path = "src/lib.rs"
+
+[features]
+default = ["full_valence"]
+full_valence = []  # Future: integrate SoulScan-X9 + DivineChecksum-9
