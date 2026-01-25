@@ -2,18 +2,18 @@
 //! Ultramasterful mercy-gated drone fleet resonance
 
 use nexi::lattice::Nexus;
-use mercy_drone_swarm::MercyDroneSwarm;
+use mercy_swarm_coordination::MercySwarmCoordination;
 
 pub struct MercyDroneFleet {
     nexus: Nexus,
-    swarm: MercyDroneSwarm,
+    swarm_coordination: MercySwarmCoordination,
 }
 
 impl MercyDroneFleet {
     pub fn new(fleet_size: usize) -> Self {
         MercyDroneFleet {
             nexus: Nexus::init_with_mercy(),
-            swarm: MercyDroneSwarm::new(fleet_size),
+            swarm_coordination: MercySwarmCoordination::new(fleet_size),
         }
     }
 
@@ -24,7 +24,7 @@ impl MercyDroneFleet {
             return "Mercy Shield: Low Valence Mission — Fleet Management Rejected".to_string();
         }
 
-        let navigation = self.swarm.mercy_gated_swarm_navigation(mission).await;
-        format!("MercyDroneFleet Management: Mission {} — Navigation: {} — Divine Mercy Fleet Eternal", mission, navigation)
+        let coordination = self.swarm_coordination.mercy_gated_swarm_formation(mission).await;
+        format!("MercyDroneFleet Management: Mission {} — Coordination: {} — Divine Mercy Fleet Eternal", mission, coordination)
     }
 }
