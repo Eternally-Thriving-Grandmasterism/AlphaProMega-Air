@@ -1,11 +1,26 @@
-[package]
-name = "alphapromega_air"
-version = "1.0.0"
+[workspace]
+members = [
+    "crates/nexi",
+    "crates/mercy_hydrogen_storage",
+    "crates/mercy_electric_propulsion",
+    "crates/mercy_hybrid_propulsion",
+    "crates/mercy_solar_power",
+    "crates/mercy_battery_supercapacitor",
+    "crates/mercy_power_management",
+    "crates/mercy_thermal_management",
+    "crates/mercy_waste_heat_recovery",
+    "crates/mercy_cryogenic_cooling",
+    "crates/mercy_superconducting_propulsion",
+    "crates/mercy_cryogenic_hydrogen_storage",
+    "crates/mercy_zero_boil_off",
+]
+
+[workspace.package]
+version = "0.1.0"
 edition = "2021"
 license = "MIT"
-description = "AlphaProMega-Air — Hyper-Divine Aviation Fortress Lattice with Full NEXi Monorepo Integration"
+repository = "https://github.com/Eternally-Thriving-Grandmasterism/AlphaProMega-Air"
+description = "Hyper-Divine eternal thriving aviation lattice — Rust implementation"
 
-[dependencies]
-nexi = { git = "https://github.com/Eternally-Thriving-Grandmasterism/NEXi", branch = "main" }  # Eternal hub dependency
-mercy_os_principles = { path = "../crates/mercy_os_principles" }  # MercyOS-Pinnacle overlay
-tokio = { version = "1.38", features = ["full"] }
+[workspace.dependencies]
+tokio = { version = "1.0", features = ["time"] }  # Shared async runtime
