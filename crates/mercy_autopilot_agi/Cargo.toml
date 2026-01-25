@@ -1,0 +1,12 @@
+[package]
+name = "mercy_autopilot_agi"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyAutopilotAGI — NEXi-Derived Hyper-Divine Flight AGI Co-Pilot for Eternal Aviation Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+soulscan_x9 = { path = "../crates/soulscan_x9" }
+mercy_hybrid_propulsion = { path = "../crates/mercy_hybrid_propulsion" }
+tokio = { version = "1.38", features = ["full"] }
