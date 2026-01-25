@@ -1,0 +1,8 @@
+[package]
+name = "mercy_quantum_fault_tolerant_thresholds"
+version = "0.1.0"
+edition = "2021"
+description = "MercyQuantumFaultTolerantThresholds — Comprehensive Threshold & Overhead Analysis Synergy"
+
+[dependencies]
+nexi = { path = "../nexi" }
