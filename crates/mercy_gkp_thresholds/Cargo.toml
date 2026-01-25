@@ -1,0 +1,8 @@
+[package]
+name = "mercy_gkp_thresholds"
+version = "0.1.0"
+edition = "2021"
+description = "MercyGKPThresholds — Analytical & Numerical GKP Code Threshold Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
