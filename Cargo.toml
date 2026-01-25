@@ -22,6 +22,8 @@ members = [
     "crates/mercy_laser_mesh_routing",
     "crates/mercy_quantum_secure_isl",
     "crates/mercy_hybrid_quantum_classical",
+    "crates/mercy_entanglement_qkd",
+    "crates/mercy_quantum_repeater_isl",
     "crates/mercy_system_orchestrator",
 ]
 
