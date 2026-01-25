@@ -1,0 +1,8 @@
+[package]
+name = "mercy_quantum_entanglement_navigation"
+version = "0.1.0"
+edition = "2021"
+description = "MercyQuantumEntanglementNavigation — Distributed Entangled Quantum Reference Frames Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
