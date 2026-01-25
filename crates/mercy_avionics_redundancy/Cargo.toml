@@ -1,0 +1,9 @@
+[package]
+name = "mercy_avionics_redundancy"
+version = "0.1.0"
+edition = "2021"
+description = "MercyAvionicsRedundancy — Triple/Quad-Redundant Fault-Tolerant Synergy"
+
+[dependencies]
+nexi = { path = "../nexi" }
+tokio = { workspace = true }
