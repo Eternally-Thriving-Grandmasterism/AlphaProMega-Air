@@ -1,0 +1,8 @@
+[package]
+name = "mercy_quantum_secure_avionics"
+version = "0.1.0"
+edition = "2021"
+description = "MercyQuantumSecureAvionics — Unhackable Quantum-Secured Flight Control Synergy"
+
+[dependencies]
+nexi = { path = "../nexi" }
