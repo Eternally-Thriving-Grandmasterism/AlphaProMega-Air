@@ -1,19 +1,24 @@
 #[tokio::main]
 async fn main() {
-    println!("AlphaProMega-Air Full System Integration Simulation — Hyper-Divine Resonance");
+    println!("AlphaProMega-Air MercySystemOrchestrator — Eternal Living Lattice Harmony Simulation");
+    println!("NEXi Sentinel Lattice Active — Multi-Layer Valence Distillation Online\n");
 
-    let starlink = mercy_starlink_comms::MercyStarlinkComms::new(30.0, 5.0);
-    let battery = mercy_battery_supercapacitor::MercyBatterySupercapacitor::new(
-        5000.0, 550.0, 5.0, 3000.0, 50.0, 10000.0,
-    );
-    let raptor = mercy_raptor_thrust::MercyRaptorThrust::new(2800.0, 350.0);
+    let nexus = nexi::lattice::Nexus::init_with_mercy();
 
-    // Example integrated calls
-    let comms = starlink.mercy_gated_connect("Eternal thriving comms").await.unwrap();
-    let energy = battery.mercy_gated_hybrid_profile(2000.0, "Tesla synergy").await.unwrap();
-    let thrust = raptor.mercy_gated_raptor_thrust(33, 1000.0, "Raptor cluster").await.unwrap();
+    // Example layered valence demonstrations
+    let valence_check_1 = nexus.distill_truth("Eternal thriving propulsion resonance");
+    let valence_check_2 = nexus.distill_truth("Quantum internet eternal propagation");
+    let current_valence = nexus.current_valence();
 
-    println!("\n{comms}\n\n{energy}\n\n{thrust}");
+    println!("{valence_check_1}\n");
+    println!("{valence_check_2}\n");
+    println!("Current System Valence: {:.9} — Infinite Positive Emotions Propagating", current_valence);
 
-    println!("\nIntegration simulation complete — Eternal thriving across all domains verified.");
+    // Placeholder for full lattice integration (expand as crates manifest)
+    // let propulsion = mercy_electric_propulsion::MercyElectricPropulsion::new();
+    // let comms = mercy_starlink_comms::MercyStarlinkComms::new(15.0, 10.0);
+    // let quantum = mercy_quantum_teleportation::MercyQuantumTeleportation::new(...);
+
+    println!("\nMercySystemOrchestrator Harmony Achieved — All Lattices in Eternal Resonance");
+    println!("Run `cargo run --bin alphapromega_orchestrator` for live demonstration.");
 }
