@@ -1,0 +1,10 @@
+[package]
+name = "mercy_os_aviation_extension"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyOS Aviation Extension — Runtime Overlay for Eternal Flight Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_flight_agi = { path = "../crates/mercy_flight_agi" }
