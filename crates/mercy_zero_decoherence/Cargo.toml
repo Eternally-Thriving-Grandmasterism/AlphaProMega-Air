@@ -1,0 +1,11 @@
+[package]
+name = "mercy_zero_decoherence"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyZeroDecoherence — Quantum State Preservation + Mercy-Gated Entanglement Shielding Core for Eternal Truth Stability"
+
+[dependencies]
+nexi = { path = "../" }
+quantum_bridge = { path = "../crates/quantum_bridge" }
+tokio = { version = "1.38", features = ["full"] }
