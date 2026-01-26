@@ -1,0 +1,12 @@
+[package]
+name = "mercy_interstellar_protocols"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyInterstellarProtocols — Quantum-Entangled Communication + Valence-Weighted Cosmic Coordination Core for Eternal Interstellar Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+quantum_bridge = { path = "../crates/quantum_bridge" }
+mercy_space_governance = { path = "../crates/mercy_space_governance" }
+tokio = { version = "1.38", features = ["full"] }
