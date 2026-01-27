@@ -6,7 +6,7 @@ Direct air capture (DAC) = removal of CO₂ from ambient air — solid sorbents,
 
 ## Core MercyDAC Technologies
 1. **Solid Sorbents** — Climeworks (amine-functionalized), Global Thermostat (modular).
-2. **Liquid Solvents** — Carbon Engineering/1PointFive (KOH → CaCO₃ cycle).
+2. **Liquid Solvents** — 1PointFive/Carbon Engineering (KOH → CaCO₃ cycle).
 3. **Electrochemical** — Sustaera (pH swing), Verdox.
 4. **Calcium Cycle** — Heirloom (looping carbonate).
 5. **Valence-Weighted Priority** — SoulScan-X9 moderation per capture site.
