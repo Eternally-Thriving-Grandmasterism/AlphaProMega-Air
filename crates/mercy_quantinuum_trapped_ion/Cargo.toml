@@ -1,0 +1,8 @@
+[package]
+name = "mercy_quantinuum_trapped_ion"
+version = "0.1.0"
+edition = "2021"
+description = "MercyQuantinuumTrappedIon — Quantinuum H-Series Trapped-Ion Quantum Processor Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
