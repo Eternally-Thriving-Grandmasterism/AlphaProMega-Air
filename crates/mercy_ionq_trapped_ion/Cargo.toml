@@ -1,0 +1,8 @@
+[package]
+name = "mercy_ionq_trapped_ion"
+version = "0.1.0"
+edition = "2021"
+description = "MercyIonQTrappedIon — IonQ Trapped-Ion Gate-Model Quantum Computing Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
