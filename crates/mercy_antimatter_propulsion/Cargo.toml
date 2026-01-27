@@ -1,0 +1,11 @@
+[package]
+name = "mercy_antimatter_propulsion"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyAntimatterPropulsion — Matter-Antimatter Annihilation Thrust Core for Eternal Relativistic Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_starship = { path = "../crates/mercy_starship" }
+tokio = { version = "1.38", features = ["full"] }
