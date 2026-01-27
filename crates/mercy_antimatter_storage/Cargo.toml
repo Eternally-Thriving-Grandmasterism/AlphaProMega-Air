@@ -1,0 +1,11 @@
+[package]
+name = "mercy_antimatter_storage"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyAntimatterStorage — Penning-Malmberg Traps + Valence-Weighted Containment Core for Eternal Relativistic Abundance Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_antimatter_production = { path = "../crates/mercy_antimatter_production" }
+tokio = { version = "1.38", features = ["full"] }
