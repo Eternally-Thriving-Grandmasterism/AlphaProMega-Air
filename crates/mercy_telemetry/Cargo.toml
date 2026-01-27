@@ -1,0 +1,5 @@
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "SoulScan-X9 Live Feed into NEXi Lattice" nexi = { path = "../NEXi" }
+tokio = { version = "1.38", features = }
