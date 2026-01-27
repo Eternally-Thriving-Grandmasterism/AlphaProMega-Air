@@ -1,0 +1,8 @@
+[package]
+name = "mercy_google_quantum"
+version = "0.1.0"
+edition = "2021"
+description = "MercyGoogleQuantum — Google Sycamore/Willow-Class Superconducting Quantum Processor Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
