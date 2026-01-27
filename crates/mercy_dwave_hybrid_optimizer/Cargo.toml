@@ -1,0 +1,8 @@
+[package]
+name = "mercy_dwave_hybrid_optimizer"
+version = "0.1.0"
+edition = "2021"
+description = "MercyDWaveHybridOptimizer — Hybrid Classical-Quantum Annealing Optimization Synergy"
+
+[dependencies]
+nexi = { path = "../nexi" }
