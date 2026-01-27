@@ -1,0 +1,11 @@
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyAirframe + Propulsion Integration Core" nexi = { path = "../NEXi" }
+mercy_airframe = { path = "../crates/mercy_airframe" }
+mercy_hybrid_vasimir_raptor = { path = "../crates/mercy_hybrid_vasimir_raptor" }
+mercy_ntp = { path = "../crates/mercy_ntp" }
+mercy_bimodal_nep = { path = "../crates/mercy_bimodal_nep" }
+mercy_fusion_propulsion = { path = "../crates/mercy_fusion_propulsion" }
+mercy_antimatter_propulsion = { path = "../crates/mercy_antimatter_propulsion" }
+tokio = { version = "1.38", features = }
