@@ -1,0 +1,11 @@
+[package]
+name = "mercy_exotic_matter_analogs"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyExoticMatterAnalogs — Casimir + Squeezed Vacuum Negative Energy Analogs Core for Eternal Spacetime Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_negative_energy = { path = "../crates/mercy_negative_energy" }
+tokio = { version = "1.38", features = ["full"] }
