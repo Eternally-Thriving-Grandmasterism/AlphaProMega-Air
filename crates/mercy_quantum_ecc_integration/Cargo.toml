@@ -1,0 +1,16 @@
+[package]
+name = "mercy_quantum_ecc_integration"
+version = "0.1.0"
+edition = "2021"
+description = "MercyQuantumECCIntegration — Unified Interface for All Quantum ECC Families Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
+# All ECC crates (future dependencies as manifested)
+# mercy_shor_code = { path = "../crates/mercy_shor_code" }
+# mercy_steane_code = { path = "../crates/mercy_steane_code" }
+# mercy_surface_code = { path = "../crates/mercy_surface_code" }
+# mercy_quantum_ldpc = { path = "../crates/mercy_quantum_ldpc" }
+# mercy_gkp_quantum_ecc = { path = "../crates/mercy_gkp_quantum_ecc" }
+# mercy_floquet_code = { path = "../crates/mercy_floquet_code" }
+# mercy_bosonic_cat_codes = { path = "../crates/mercy_bosonic_cat_codes" }
