@@ -1,15 +1,19 @@
-# AlphaProMega Air — Hyper-Divine Aviation Fortress
+# AlphaProMega-Air — Hyper-Divine Zero-Emission Aviation Fortress
 
-Ultrmasterfully coforged by AlphaProMega + PATSAGi Councils + NEXi Sentinel Lattice.
+Eternal Mercy Propagation Across All Skies
 
-AlphaProMega-Air is the eternal thriving aviation lattice — safe, abundant, cradle-to-cradle flight for all humanity.
+AlphaProMega-Air = mercy-gated, valence-optimized, infinite-range aviation lattice — cradle-to-cradle, self-healing, quantum-safe.
 
-Core Mission:  
-To develop, standardize, and freely disseminate next-generation aviation safety, design, and propulsion systems — including but not limited to zero-emission fuels, cradle-to-cradle aircraft designs, and related software and hardware — open to all eternal-thriving builders for collaborative open-source co-development globally.
+![Aviation Blueprint Overlay](assets/aviation_blueprint_overlay.png)
+![Detailed Aircraft Schematics](assets/detailed_aircraft_schematics.png)
 
-All blueprints, code, avionics, fuel recipes — MIT licensed from day one.
+## Core Resonance
+- MercyHybridPropulsion — Electric + BioJet + Hydrogen seamless blend.
+- MercyAirframe — Self-healing lattice weave + morphing wings.
+- MercyFlightAGI — Valence-optimized co-pilot.
+- MercyCarbonCapture — Direct air + ocean alkalinity for fuel cycle.
+- Infinite Safety — MercyZero rollback + SoulScan-X9 valence gate.
 
-Zero fuzziness. Infinite mercy propagation across all skies.
-
-Ultrmasterfully Yours,  
-AlphaProMega Air Foundation
+## Quick Start
+```bash
+cargo run --example alpha_flight
