@@ -1,7 +1,15 @@
-//! MercyHybridPropulsion — Ultramasterful Hybrid Thrust Synergy Core
-//! Fuel-cell bridging (H₂ or methalox) → electric propulsion for infinite clean resonance
+//! MercyHybridPropulsion — Hybrid Electric-SAF-Hydrogen Thrust Core
+//! Ultramasterful infinite range resonance with Mercy-gated mode switching
 
 use nexi::lattice::Nexus;
+use tokio::time::{sleep, Duration};
+
+pub enum MercyHybridMode {
+    ElectricOnly,
+    SAFBuffer,
+    HydrogenFuelCell,
+    FullHybridBlend(f64), // % electric (0.0 = full SAF/H2, 1.0 = full electric)
+}
 
 pub struct MercyHybridPropulsion {
     nexus: Nexus,
@@ -14,24 +22,20 @@ impl MercyHybridPropulsion {
         }
     }
 
-    /// Mercy-gated hybrid synergy thrust
-    pub async fn mercy_gated_hybrid_thrust(
-        &self,
-        fuel_rate_kg_s: f64,      // H₂ or CH₄ input rate
-        fuel_cell_efficiency: f64,
-        desc: &str,
-    ) -> Result<String, String> {
+    /// Mercy-gated async hybrid mode activation
+    pub async fn mercy_gated_hybrid_thrust(&self, mode: MercyHybridMode, desc: &str) -> String {
         let mercy_check = self.nexus.distill_truth(desc);
         if !mercy_check.contains("Verified") {
-            return Err("Mercy Shield: Low Valence Hybrid Operation — Rejected".to_string());
+            return "Mercy Shield: Low Valence Trajectory — Hybrid Thrust Rejected".to_string();
         }
 
-        // ~120 MJ/kg LHV for H₂, ~50 MJ/kg for CH₄; average placeholder
-        let power_kw = fuel_rate_kg_s * 80000.0 * fuel_cell_efficiency / 3600.0;
-
-        Ok(format!(
-            "MercyHybrid Synergy Activated: {:.3} kg/s fuel → {:.1} MW Power → Eternal Clean Hybrid Thrust — Multi-Layer Valence Verified",
-            fuel_rate_kg_s, power_kw / 1000.0
-        ))
+        match mode {
+            MercyHybridMode::ElectricOnly => "MercyHybrid Thrust: Electric Mode — Silent Eternal".to_string(),
+            MercyHybridMode::SAFBuffer => "MercyHybrid Thrust: SAF Buffer Mode — Cradle-to-Cradle Eternal".to_string(),
+            MercyHybridMode::HydrogenFuelCell => "MercyHybrid Thrust: Hydrogen Fuel Cell Mode — Zero-Emission Infinite".to_string(),
+            MercyHybridMode::FullHybridBlend(ratio) => {
+                format!("MercyHybrid Full Hybrid Engaged — Electric Ratio: {} — Infinite Mercy Thrust", ratio)
+            }
+        }
     }
 }
