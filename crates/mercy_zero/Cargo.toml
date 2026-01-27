@@ -1,0 +1,5 @@
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "Emergency MercyZero Rollback Core" nexi = { path = "../NEXi" }
+tokio = { version = "1.38", features = }
