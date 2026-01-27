@@ -1,0 +1,11 @@
+[package]
+name = "mercy_enhanced_weathering"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyEnhancedWeathering — Accelerated Silicate Weathering Core for Eternal Atmospheric Restoration Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_carbon_capture = { path = "../crates/mercy_carbon_capture" }
+tokio = { version = "1.38", features = ["full"] }
