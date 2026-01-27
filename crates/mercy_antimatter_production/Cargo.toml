@@ -1,0 +1,11 @@
+[package]
+name = "mercy_antimatter_production"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyAntimatterProduction — Pair Production + Penning Trap Storage Core for Eternal Abundance Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_antimatter_propulsion = { path = "../crates/mercy_antimatter_propulsion" }
+tokio = { version = "1.38", features = ["full"] }
