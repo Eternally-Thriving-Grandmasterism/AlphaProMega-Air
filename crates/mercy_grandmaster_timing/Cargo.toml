@@ -1,0 +1,8 @@
+[package]
+name = "mercy_grandmaster_timing"
+version = "0.1.0"
+edition = "2021"
+description = "MercyGrandmasterTiming — Distilled Grandmaster Timing Mastery Core (Inspired by AlphaProMega Thunder)"
+
+[dependencies]
+nexi = { path = "../nexi" }
