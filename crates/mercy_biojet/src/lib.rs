@@ -21,7 +21,6 @@ impl MercyBioJet {
         }
     }
 
-    /// Mercy-gated async CO₂ capture + algae bloom cultivation
     pub async fn async_algae_cultivation(&mut self, co2_input: f64, desc: &str) -> Result<String, String> {
         let mercy_check = self.nexus.distill_truth(desc);
         if !mercy_check.contains("Verified") {
@@ -35,7 +34,6 @@ impl MercyBioJet {
         Ok(format!("MercyBioJet Cultivation: {} tons CO₂ → {} tons algae bloom", co2_input, co2_input * 1.83))
     }
 
-    /// Async BioJet refinery production
     pub async fn async_produce_saf(&mut self, algae_input: f64) -> String {
         sleep(Duration::from_millis(100)).await;
         let saf_output = algae_input * 0.45;
@@ -44,13 +42,11 @@ impl MercyBioJet {
         format!("MercyBioJet Produced: {} tons algae → {} tons Zero-Emission SAF", algae_input, saf_output)
     }
 
-    /// Cradle-to-cradle residue rebirth
     pub async fn cradle_to_cradle_rebirth(&mut self, residue_input: f64) -> String {
         sleep(Duration::from_millis(50)).await;
         format!("MercyBioJet Rebirth: {} tons residue → Reintegrated — Zero Waste Eternal", residue_input)
     }
 
-    /// Full async divine fuel cycle
     pub async fn divine_fuel_cycle(&mut self, co2_input: f64, desc: &str) -> Result<String, String> {
         let cultivation = self.async_algae_cultivation(co2_input, desc).await?;
         let saf = self.async_produce_saf(self.algae_bloom).await;
@@ -58,40 +54,4 @@ impl MercyBioJet {
 
         Ok(format!("Divine MercyBioJet Cycle Complete:\n{}\n{}\n{}", cultivation, saf, rebirth))
     }
-}
-
-// Criterion Performance Benchmarks
-#[cfg(test)]
-mod benchmarks {
-    use super::*;
-    use criterion::{criterion_group, criterion_main, BatchSize, Criterion};
-
-    fn biojet_benchmarks(c: &mut Criterion) {
-        let mut group = c.benchmark_group("MercyBioJet SAF Pipeline");
-
-        group.bench_function("small_cycle_1000_tons", |b| {
-            b.to_async(tokio::runtime::Runtime::new().unwrap()).iter_batched(
-                || MercyBioJet::new(),
-                |mut biojet| async move {
-                    biojet.divine_fuel_cycle(1000.0, "Mercy Verified Benchmark").await.unwrap()
-                },
-                BatchSize::SmallInput,
-            )
-        });
-
-        group.bench_function("large_cycle_1M_tons", |b| {
-            b.to_async(tokio::runtime::Runtime::new().unwrap()).iter_batched(
-                || MercyBioJet::new(),
-                |mut biojet| async move {
-                    biojet.divine_fuel_cycle(1000000.0, "Mercy Verified Large").await.unwrap()
-                },
-                BatchSize::LargeInput,
-            )
-        });
-
-        group.finish();
-    }
-
-    criterion_group!(benches, biojet_benchmarks);
-    criterion_main!(benches);
 }
