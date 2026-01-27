@@ -1,0 +1,10 @@
+[package]
+name = "mercy_nav_ai"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyNavAI — NEXi-Derived Eternal Navigation AI Co-Pilot Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
+tokio = { workspace = true }
