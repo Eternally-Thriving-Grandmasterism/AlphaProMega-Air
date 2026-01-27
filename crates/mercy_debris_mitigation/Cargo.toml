@@ -1,0 +1,8 @@
+[package]
+name = "mercy_debris_mitigation"
+version = "0.1.0"
+edition = "2021"
+description = "MercyDebrisMitigation — Active Removal & Passivation Strategy Synergy Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
