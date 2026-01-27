@@ -1,0 +1,8 @@
+[package]
+name = "mercy_google_hybrid_optimizer"
+version = "0.1.0"
+edition = "2021"
+description = "MercyGoogleHybridOptimizer — Google Hybrid Quantum-Classical Optimization Synergy"
+
+[dependencies]
+nexi = { path = "../nexi" }
