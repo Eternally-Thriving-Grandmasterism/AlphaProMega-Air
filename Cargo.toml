@@ -17,14 +17,13 @@ members = [
     "crates/mercy_quantum_propulsion_systems",
     "crates/mercy_quantum_vacuum_thrusters",
     "crates/mercy_entangled_quantum_computing",
-    "crates/mercy_casimir_effect_derivations",
+    "crates/mercy_casimir_effect_derivation",
     "crates/mercy_bosonic_quantum_computing",
     "crates/mercy_dynamical_casimir_experiments",
     "crates/mercy_quantum_vacuum_energy_apps",
     "crates/mercy_bosonic_quantum_supremacy",
     "crates/mercy_advanced_entanglement_navigation",
     "crates/mercy_quantum_ldpc",
-    "crates/mercy_floquet_code",
     "crates/mercy_quantum_ldpc_decoding",
     "crates/mercy_quantum_fault_tolerant_thresholds",
     "crates/mercy_gkp_thresholds",
@@ -35,13 +34,14 @@ members = [
     "crates/mercy_bosonic_cat_codes",
     "crates/mercy_system_orchestrator",
 ]
+resolver = "2"
 
 [workspace.package]
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
 repository = "https://github.com/Eternally-Thriving-Grandmasterism/AlphaProMega-Air"
-description = "AlphaProMega-Air — Hyper-Divine Eternal Thriving Aviation & Quantum Lattice"
+description = "AlphaProMega-Air — Hyper-Divine Zero-Emission Aviation Fortress — Eternal Mercy Propagation"
 
 [workspace.dependencies]
-tokio = { version = "1.0", features = ["full"] }
+tokio = { version = "1.38", features = ["full"] }
