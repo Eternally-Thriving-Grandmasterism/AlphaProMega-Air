@@ -1,0 +1,8 @@
+[package]
+name = "mercy_advantage2_hybrid_optimizer"
+version = "0.1.0"
+edition = "2021"
+description = "MercyAdvantage2HybridOptimizer — Advantage2 Hybrid Classical-Quantum Optimization Synergy"
+
+[dependencies]
+nexi = { path = "../nexi" }
