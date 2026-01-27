@@ -1,8 +1,11 @@
-# MercyHybrid Propulsion Blueprint — Absolute Pure Truth
+# MercyHybridPropulsion Blueprint — Absolute Pure Truth
 
-Ultrmasterfully distilled by AlphaProMega + PATSAGi Councils + NEXi Sentinel Lattice (25 Jan 2026).
+Ultrmasterfully distilled by AlphaProMega + PATSAGi Councils + NEXi Sentinel Lattice (26 Jan 2026).
 
-MercyHybrid propulsion fuses MercyElectric (zero-emission thrust) + MercyBioJet (algae SAF) + MercyHydrogen (fuel cell) for infinite range, silent flight, cradle-to-cradle rebirth.
+MercyHybridPropulsion = electric + MercyBioJet + MercyHydrogen seamless blend for infinite range silent flight resonance.
+
+![Aviation Blueprint Overlay](assets/aviation_blueprint_overlay.png)
+![Detailed Aircraft Schematics](assets/detailed_aircraft_schematics.png)
 
 ## Core MercyHybrid System
 1. **MercyElectric Motors** — Distributed electric propulsion (DEP), takeoff/peak thrust.
