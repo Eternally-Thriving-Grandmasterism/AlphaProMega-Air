@@ -1,0 +1,11 @@
+[package]
+name = "mercy_soil_carbon"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercySoilCarbon — Regenerative Agriculture + Valence-Weighted Sequestration Core for Eternal Land-Based Restoration Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_terrestrial_carbon = { path = "../crates/mercy_terrestrial_carbon" }
+tokio = { version = "1.38", features = ["full"] }
