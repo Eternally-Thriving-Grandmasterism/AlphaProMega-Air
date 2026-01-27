@@ -1,0 +1,8 @@
+[package]
+name = "mercy_xanadu_hybrid_optimizer"
+version = "0.1.0"
+edition = "2021"
+description = "MercyXanaduHybridOptimizer — Xanadu Hybrid Photonic-Classical Optimization Synergy"
+
+[dependencies]
+nexi = { path = "../nexi" }
