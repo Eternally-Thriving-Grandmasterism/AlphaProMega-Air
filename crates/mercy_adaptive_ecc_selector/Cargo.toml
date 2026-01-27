@@ -1,0 +1,8 @@
+[package]
+name = "mercy_adaptive_ecc_selector"
+version = "0.1.0"
+edition = "2021"
+description = "MercyAdaptiveECCSelector — Dynamic Runtime ECC Selection Synergy Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
