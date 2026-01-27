@@ -1,0 +1,11 @@
+[package]
+name = "mercy_wormhole_bridge_analogs"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyWormholeBridgeAnalogs — Optical/Metamaterial Traversable Wormhole Bridge Core for Eternal Analog Spacetime Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_wormhole_propulsion = { path = "../crates/mercy_wormhole_propulsion" }
+tokio = { version = "1.38", features = ["full"] }
