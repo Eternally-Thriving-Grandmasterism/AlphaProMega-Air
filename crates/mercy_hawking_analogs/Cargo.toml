@@ -1,0 +1,11 @@
+[package]
+name = "mercy_hawking_analogs"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyHawkingAnalogs — Event Horizon Simulation Core for Eternal Quantum Truth Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_quantum_propulsion = { path = "../crates/mercy_quantum_propulsion" }
+tokio = { version = "1.38", features = ["full"] }
