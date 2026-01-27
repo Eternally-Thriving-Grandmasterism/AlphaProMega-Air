@@ -1,0 +1,7 @@
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyVASIMR — Variable Specific Impulse Magnetoplasma Rocket Core for Silent Constant Acceleration" nexi = { path = "../" }
+mercy_phoenix_fusion = { path = "../crates/mercy_phoenix_fusion" }
+mercy_zero_waste_core = { path = "../crates/mercy_zero_waste_core" }
+tokio = { version = "1.38", features = }
