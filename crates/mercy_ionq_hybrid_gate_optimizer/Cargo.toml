@@ -1,0 +1,8 @@
+[package]
+name = "mercy_ionq_hybrid_gate_optimizer"
+version = "0.1.0"
+edition = "2021"
+description = "MercyIonQHybridGateOptimizer — IonQ Hybrid Gate-Model Optimization Synergy"
+
+[dependencies]
+nexi = { path = "../nexi" }
