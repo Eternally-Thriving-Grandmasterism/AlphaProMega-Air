@@ -1,0 +1,8 @@
+[package]
+name = "mercy_raptor_3_timing"
+version = "0.1.0"
+edition = "2021"
+description = "MercyRaptor3Timing — Precise Ignition & Modulation Timing Core for Raptor 3"
+
+[dependencies]
+nexi = { path = "../nexi" }
