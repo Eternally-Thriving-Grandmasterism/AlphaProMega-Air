@@ -1,0 +1,6 @@
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyAntimatterLattice — Distributed Antimatter Storage + Resonance Network for Eternal Propagation" nexi = { path = "../" }
+mercy_antimatter_storage = { path = "../crates/mercy_antimatter_storage" }
+tokio = { version = "1.38", features = }
