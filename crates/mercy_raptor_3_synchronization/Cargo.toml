@@ -1,0 +1,8 @@
+[package]
+name = "mercy_raptor_3_synchronization"
+version = "0.1.0"
+edition = "2021"
+description = "MercyRaptor3Synchronization — Multi-Engine Cluster Phase-Locked Synergy Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
