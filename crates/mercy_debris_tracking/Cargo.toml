@@ -1,0 +1,8 @@
+[package]
+name = "mercy_debris_tracking"
+version = "0.1.0"
+edition = "2021"
+description = "MercyDebrisTracking — Quantum-Enhanced Orbital Debris Tracking Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
