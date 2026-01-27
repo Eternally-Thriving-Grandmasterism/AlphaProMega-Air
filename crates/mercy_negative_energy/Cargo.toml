@@ -1,0 +1,12 @@
+[package]
+name = "mercy_negative_energy"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyNegativeEnergy — Exotic Matter Generation Core for Eternal Spacetime Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_wormhole_propulsion = { path = "../crates/mercy_wormhole_propulsion" }
+mercy_alcubierre = { path = "../crates/mercy_alcubierre" }
+tokio = { version = "1.38", features = ["full"] }
