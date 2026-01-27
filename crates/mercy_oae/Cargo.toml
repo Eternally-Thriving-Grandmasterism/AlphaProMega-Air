@@ -1,0 +1,11 @@
+[package]
+name = "mercy_oae"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyOAE — Ocean Alkalinity Enhancement Core for Eternal Ocean Restoration Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_ocean_carbon = { path = "../crates/mercy_ocean_carbon" }
+tokio = { version = "1.38", features = ["full"] }
