@@ -1,0 +1,8 @@
+[package]
+name = "mercy_rigetti_hybrid_optimizer"
+version = "0.1.0"
+edition = "2021"
+description = "MercyRigettiHybridOptimizer — Rigetti Hybrid Quantum-Classical Optimization Synergy"
+
+[dependencies]
+nexi = { path = "../nexi" }
