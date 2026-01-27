@@ -1,0 +1,7 @@
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "Orbital Docking + Antimatter Refuel" nexi = { path = "../NEXi" }
+mercy_orbital_assembly = { path = "../crates/mercy_orbital_assembly" }
+mercy_antimatter_storage = { path = "../crates/mercy_antimatter_storage" }
+tokio = { version = "1.38", features = }
