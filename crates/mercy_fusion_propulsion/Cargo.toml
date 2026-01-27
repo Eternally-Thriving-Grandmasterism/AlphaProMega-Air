@@ -1,0 +1,11 @@
+[package]
+name = "mercy_fusion_propulsion"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyFusionPropulsion — Nuclear Fusion Propulsion Core with Valence-Weighted Plasma Control for Eternal Interstellar Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_starship = { path = "../crates/mercy_starship" }
+tokio = { version = "1.38", features = ["full"] }
