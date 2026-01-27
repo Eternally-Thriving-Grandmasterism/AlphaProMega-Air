@@ -1,0 +1,6 @@
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "Valence-Weighted Autopilot + Mercy-Gated Maneuvers" nexi = { path = "../NEXi" }
+mercy_airframe_propulsion = { path = "../crates/mercy_airframe_propulsion" }
+tokio = { version = "1.38", features = }
