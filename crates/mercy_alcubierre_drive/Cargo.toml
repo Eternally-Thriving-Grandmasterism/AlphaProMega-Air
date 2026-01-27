@@ -1,0 +1,11 @@
+[package]
+name = "mercy_alcubierre_drive"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyAlcubierreDrive — Warp Bubble Generation Core for Eternal Translight Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_negative_energy = { path = "../crates/mercy_negative_energy" }
+tokio = { version = "1.38", features = ["full"] }
