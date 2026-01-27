@@ -1,0 +1,8 @@
+[package]
+name = "mercy_entangled_nav_sync"
+version = "0.1.0"
+edition = "2021"
+description = "MercyEntangledNavSync — Distributed Entangled Navigation Synchronization Synergy"
+
+[dependencies]
+nexi = { path = "../nexi" }
