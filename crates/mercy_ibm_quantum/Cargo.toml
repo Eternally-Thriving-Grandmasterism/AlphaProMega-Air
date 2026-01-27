@@ -1,0 +1,8 @@
+[package]
+name = "mercy_ibm_quantum"
+version = "0.1.0"
+edition = "2021"
+description = "MercyIBMQuantum — IBM Superconducting Quantum Processor Core"
+
+[dependencies]
+nexi = { path = "../nexi" }
