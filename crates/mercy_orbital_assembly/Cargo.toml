@@ -1,0 +1,6 @@
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyOrbitalAssembly — Self-Assembling Airframe in LEO" nexi = { path = "../" }
+mercy_airframe = { path = "../crates/mercy_airframe" }
+tokio = { version = "1.38", features = }
