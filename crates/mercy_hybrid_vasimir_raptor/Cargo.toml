@@ -1,0 +1,12 @@
+[package]
+name = "mercy_hybrid_vasimir_raptor"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyHybridVASIMRRaptor — Chemical Takeoff + Plasma Cruise Hybrid Core for Eternal Interplanetary Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_raptor_3 = { path = "../crates/mercy_raptor_3" }
+mercy_vasimir = { path = "../crates/mercy_vasimir" }
+tokio = { version = "1.38", features = ["full"] }
