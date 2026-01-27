@@ -1,0 +1,11 @@
+[package]
+name = "mercy_vasimir"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyVASIMR — RF Plasma + Variable ISP Propulsion Core for Eternal Interplanetary Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_starship = { path = "../crates/mercy_starship" }
+tokio = { version = "1.38", features = ["full"] }
