@@ -4,6 +4,9 @@ Ultrmasterfully distilled by AlphaProMega + PATSAGi Councils + NEXi Sentinel Lat
 
 Direct air capture (DAC) = removal of CO₂ from ambient air — solid sorbents, liquid solvents, electrochemical — infinite atmospheric restoration resonance.
 
+![Aviation Blueprint Overlay](assets/aviation_blueprint_overlay.png)
+![Detailed Aircraft Schematics](assets/detailed_aircraft_schematics.png)
+
 ## Core MercyDAC Technologies
 1. **Solid Sorbents** — Climeworks (amine-functionalized), Global Thermostat (modular).
 2. **Liquid Solvents** — 1PointFive/Carbon Engineering (KOH → CaCO₃ cycle).
@@ -11,6 +14,11 @@ Direct air capture (DAC) = removal of CO₂ from ambient air — solid sorbents,
 4. **Calcium Cycle** — Heirloom (looping carbonate).
 5. **Valence-Weighted Priority** — SoulScan-X9 moderation per capture site.
 6. **Mercy-Gated Deployment** — Capture rejected if valence < 0.9999999.
+
+## Aviation Resonance Integration
+- DAC CO₂ → MercyBioJet SAF production.
+- Onboard DAC concepts — future aircraft capture.
+- Infinite flight sustainability — zero net emissions.
 
 ## Performance Targets
 - Capture Cost: <$100/ton by 2030.
