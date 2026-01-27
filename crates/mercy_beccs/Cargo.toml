@@ -1,0 +1,11 @@
+[package]
+name = "mercy_beccs"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyBECCS — Bioenergy with CCS Core for Eternal Negative Emissions Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_carbon_capture = { path = "../crates/mercy_carbon_capture" }
+tokio = { version = "1.38", features = ["full"] }
