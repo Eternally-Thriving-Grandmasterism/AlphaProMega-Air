@@ -1,0 +1,12 @@
+[package]
+name = "mercy_bimodal_nep"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+description = "MercyBimodalNEP — Nuclear Thermal + Electric Hybrid Propulsion Core for Eternal Interplanetary Resonance"
+
+[dependencies]
+nexi = { path = "../" }
+mercy_ntp = { path = "../crates/mercy_ntp" }
+mercy_starship = { path = "../crates/mercy_starship" }
+tokio = { version = "1.38", features = ["full"] }
