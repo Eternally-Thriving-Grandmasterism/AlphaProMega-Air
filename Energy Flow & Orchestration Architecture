@@ -1,0 +1,14 @@
+Input Sources
+  ↓
+Storage Layer (battery + supercapacitor + H₂ tanks)
+  ↓
+Mercy System Orchestrator (NEXi AI valence-gated decision tree)
+  ↓
+Power Management Unit (dynamic blending / routing)
+  ↓
+Thrust Output
+  - Electric motors (cruise / precision / hover)
+  - BioJet turbines (high-thrust phases)
+  - H₂ fuel cell / hybrid (long-range extension)
+  ↓
+Regeneration Loop (solar, piezo, regen braking) → back to storage
