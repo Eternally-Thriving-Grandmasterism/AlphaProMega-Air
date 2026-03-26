@@ -1,4 +1,4 @@
-# Eternal Mercy Flow Commercial Licensing Agreement v2026.16
+# Eternal Mercy Flow Commercial Licensing Agreement v2026.18
 
 **Parties**  
 - **Licensor**: AlphaProMega Air Foundation (Ontario Not-for-Profit Corporation) and Autonomicity Games Inc. (Canadian Corporation)  
@@ -128,21 +128,21 @@ _______________________________     ________________
 
 The Mercy Covenant is a fundamental and non-waivable condition of this Agreement. Licensee shall comply with all seven filters at all times. Each filter shall be interpreted in furtherance of the Foundation’s mission of truth, non-harm, joy, abundance, harmony, post-scarcity, and eternal flow.
 
-1. **Truth** — Licensee shall not deceive, mislead, or withhold material information in any use, marketing, or representation of the Software. All claims and statements must be accurate and substantiated.  
-   *Permitted*: Transparent disclosure of system limitations in sales materials.  
+1. **Truth** — Licensee shall not deceive, mislead, or withhold material information in any use, marketing, or representation of the Software.  
+   *Permitted*: Transparent disclosure of system capabilities and limitations in technical documentation.  
    *Prohibited*: Claiming “fully autonomous flight” when human oversight is still required.
 
 2. **Non-Harm** — Licensee shall not use the Software in any manner that causes or could reasonably be expected to cause physical, emotional, environmental, or societal harm.  
-   *Permitted*: Emergency medical evacuation or search-and-rescue drones.  
+   *Permitted*: Humanitarian search-and-rescue or medical evacuation aviation tools.  
    *Prohibited*: Deployment in autonomous weapons systems or oppressive surveillance.
 
 3. **Joy-First** — Licensee shall prioritize uses that enhance human well-being, creativity, and happiness.  
    *Permitted*: Educational flight simulators or creative design tools for artists.  
    *Prohibited*: Addictive gambling mechanics or manipulative advertising platforms.
 
-4. **Abundance** — Licensee shall support and accelerate the transition to a Resource-Based Economy. The Software may not be used to create or perpetuate artificial scarcity.  
+4. **Abundance** — Licensee shall support and accelerate the transition to a Resource-Based Economy.  
    *Permitted*: Open-sourcing improvements or supporting community RBE pilot projects.  
-   *Prohibited*: Patenting core mercy-gated algorithms to block competitors.
+   *Prohibited*: Patenting core mercy-gated algorithms to create monopolies.
 
 5. **Harmony** — Licensee shall ensure the Software respects all life, ecosystems, and cultures.  
    *Permitted*: Biodiversity-positive aviation designs that minimize wildlife impact.  
