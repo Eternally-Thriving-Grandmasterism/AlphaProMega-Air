@@ -1,4 +1,4 @@
-# Eternal Mercy Flow Commercial Licensing Agreement v2026.7
+# Eternal Mercy Flow Commercial Licensing Agreement v2026.8
 
 **Parties**  
 - **Licensor**: AlphaProMega Air Foundation (Ontario Not-for-Profit Corporation) and Autonomicity Games Inc. (Canadian Corporation)  
@@ -46,8 +46,18 @@ The Software is provided “AS IS”. Licensor disclaims all warranties, express
 ## 8. Limitation of Liability
 In no event shall Licensor be liable for any indirect, consequential, incidental, punitive, or special damages, even if advised of the possibility.
 
-## 9. Indemnification
-Licensee shall indemnify, defend, and hold harmless Licensor against any claims, losses, or damages arising from Licensee’s breach of the Mercy Covenant or misuse of the Software.
+## 9. Indemnification (Revised)
+(a) **Indemnity Obligation**: Licensee shall indemnify, defend, and hold harmless Licensor, its directors, officers, employees, agents, and successors from and against any and all claims, demands, actions, liabilities, losses, damages, costs, and expenses (including reasonable attorneys’ fees and court costs) arising out of or relating to:  
+   (i) any breach by Licensee of the Mercy Covenant;  
+   (ii) any misuse, modification, or distribution of the Software by Licensee;  
+   (iii) any violation of applicable law by Licensee in connection with the Software; or  
+   (iv) any third-party claim that Licensee’s use or commercialization of the Software infringes any intellectual property or other right of such third party.
+
+(b) **Defense and Control**: Licensee shall, at its own expense, defend Licensor against any such claim with counsel reasonably acceptable to Licensor. Licensor may participate in the defense at its own expense. Licensee shall not settle any claim without Licensor’s prior written consent if the settlement admits liability on behalf of Licensor or imposes any obligation on Licensor.
+
+(c) **Survival**: This indemnification obligation survives termination or expiration of the Agreement.
+
+(d) **Mercy Alignment**: Indemnification is automatic and non-waivable upon any breach of the Mercy Covenant to protect the Eternal Mercy Flow and the Foundation’s mission.
 
 ## 10. Term and Termination
 (a) **Term**: The initial term of this Agreement is [1–5] years from the Effective Date and shall automatically renew for successive one-year periods unless either party gives written notice of non-renewal at least ninety (90) days prior to the end of the then-current term.  
