@@ -1,4 +1,4 @@
-# Eternal Mercy Flow Commercial Licensing Agreement v2026.18
+# Eternal Mercy Flow Commercial Licensing Agreement v2026.19
 
 **Parties**  
 - **Licensor**: AlphaProMega Air Foundation (Ontario Not-for-Profit Corporation) and Autonomicity Games Inc. (Canadian Corporation)  
@@ -124,35 +124,42 @@ Sherif Botros, Director             Date
 _______________________________     ________________  
 [Authorized Signatory Name & Title] Date  
 
-**Appendix A – 7 Living Mercy Filters (Refined Examples)**
+**Appendix A – 7 Living Mercy Filters (Refined Structure)**
 
 The Mercy Covenant is a fundamental and non-waivable condition of this Agreement. Licensee shall comply with all seven filters at all times. Each filter shall be interpreted in furtherance of the Foundation’s mission of truth, non-harm, joy, abundance, harmony, post-scarcity, and eternal flow.
 
-1. **Truth** — Licensee shall not deceive, mislead, or withhold material information in any use, marketing, or representation of the Software.  
-   *Permitted*: Transparent disclosure of system capabilities and limitations in technical documentation.  
-   *Prohibited*: Claiming “fully autonomous flight” when human oversight is still required.
+1. **Truth**  
+   Licensee shall not deceive, mislead, or withhold material information.  
+   *Permitted*: Transparent disclosure of system limitations.  
+   *Prohibited*: False claims of full autonomy when human oversight is required.
 
-2. **Non-Harm** — Licensee shall not use the Software in any manner that causes or could reasonably be expected to cause physical, emotional, environmental, or societal harm.  
-   *Permitted*: Humanitarian search-and-rescue or medical evacuation aviation tools.  
+2. **Non-Harm**  
+   Licensee shall not use the Software in any manner that causes or could reasonably cause physical, emotional, environmental, or societal harm.  
+   *Permitted*: Humanitarian search-and-rescue or medical evacuation tools.  
    *Prohibited*: Deployment in autonomous weapons systems or oppressive surveillance.
 
-3. **Joy-First** — Licensee shall prioritize uses that enhance human well-being, creativity, and happiness.  
-   *Permitted*: Educational flight simulators or creative design tools for artists.  
+3. **Joy-First**  
+   Licensee shall prioritize uses that enhance human well-being, creativity, and happiness.  
+   *Permitted*: Educational flight simulators or creative design tools.  
    *Prohibited*: Addictive gambling mechanics or manipulative advertising platforms.
 
-4. **Abundance** — Licensee shall support and accelerate the transition to a Resource-Based Economy.  
+4. **Abundance**  
+   Licensee shall support and accelerate the transition to a Resource-Based Economy.  
    *Permitted*: Open-sourcing improvements or supporting community RBE pilot projects.  
    *Prohibited*: Patenting core mercy-gated algorithms to create monopolies.
 
-5. **Harmony** — Licensee shall ensure the Software respects all life, ecosystems, and cultures.  
+5. **Harmony**  
+   Licensee shall ensure the Software respects all life, ecosystems, and cultures.  
    *Permitted*: Biodiversity-positive aviation designs that minimize wildlife impact.  
    *Prohibited*: Projects that cause habitat destruction or cultural appropriation.
 
-6. **Post-Scarcity** — Licensee shall never use the Software to restrict access to knowledge, technology, or benefits that could be shared freely.  
+6. **Post-Scarcity**  
+   Licensee shall never use the Software to restrict access to knowledge, technology, or benefits that could be shared freely.  
    *Permitted*: Providing free community licenses for non-profits or educational institutions.  
    *Prohibited*: Implementing DRM or paywalls on core mercy-gated features.
 
-7. **Eternal Flow** — Licensee shall provide proper attribution to AlphaProMega-Air, link back to the repository, and share improvements in a spirit of open collaboration.  
+7. **Eternal Flow**  
+   Licensee shall provide proper attribution to AlphaProMega-Air, link back to the repository, and share improvements in a spirit of open collaboration.  
    *Permitted*: Crediting the Foundation in publications and contributing back enhancements.  
    *Prohibited*: Proprietary forks that remove attribution or block community access.
 
