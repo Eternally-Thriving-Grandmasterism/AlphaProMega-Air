@@ -1,4 +1,4 @@
-# Eternal Mercy Flow Commercial Licensing Agreement v2026.1
+# Eternal Mercy Flow Commercial Licensing Agreement v2026.2
 
 **Parties**  
 - **Licensor**: AlphaProMega Air Foundation (Ontario Not-for-Profit Corporation) and Autonomicity Games Inc. (Canadian Corporation)  
@@ -14,7 +14,8 @@ C. The parties wish to enter into this Agreement under the principles of the Ete
 ## 1. Definitions
 - “Software” means the AlphaProMega-Air codebase, documentation, schematics, models, and related mercy-gated materials.  
 - “Mercy Covenant” means the 7 Living Mercy Filters listed in Appendix A.  
-- “Commercial Use” means any use that generates revenue, is part of a for-profit product/service, or is deployed in an enterprise context.
+- “Commercial Use” means any use that generates revenue, is part of a for-profit product/service, or is deployed in an enterprise context.  
+- “Confidential Information” means any non-public information disclosed by Licensor, including source code, mercy-gated algorithms, aviation schematics, business plans, TOLC convergence proofs, and any derivatives.
 
 ## 2. Grant of License
 Subject to timely payment of the Fees and strict compliance with the Mercy Covenant, Licensor grants Licensee a limited, non-exclusive, non-transferable, revocable license to use, modify, and commercially exploit the Software solely for the agreed commercial purposes.
@@ -31,24 +32,32 @@ Licensee must at all times comply with the 7 Living Mercy Filters. Any breach co
 ## 5. Intellectual Property Rights
 Licensor retains all right, title, and interest in the Software and any derivatives. Licensee obtains no ownership rights and may not sublicense except as expressly approved in writing.
 
-## 6. Warranties and Disclaimers
+## 6. Confidentiality (New)
+(a) **Obligation**: Licensee shall hold all Confidential Information in strict confidence and shall not disclose, copy, or use it except as strictly necessary to exercise the rights granted under this Agreement.  
+(b) **Standard of Care**: At least the same degree of care used to protect its own confidential information (but no less than reasonable care).  
+(c) **Exceptions**: Information is not Confidential if it (i) is or becomes publicly available through no fault of Licensee, (ii) was rightfully known to Licensee prior to disclosure, (iii) is independently developed by Licensee without use of Licensor’s information, or (iv) is required to be disclosed by law (with prompt notice to Licensor).  
+(d) **Survival**: This section survives termination or expiration of the Agreement for a period of five (5) years.  
+(e) **Remedies**: Breach of this section entitles Licensor to immediate injunctive relief in addition to any other remedies, and constitutes a material breach triggering automatic revocation under the Mercy Covenant.  
+(f) **Mercy Alignment**: Confidentiality protects sensitive mercy-gated technologies but does not prevent truth-sharing or abundance initiatives that align with the 7 Living Mercy Filters.
+
+## 7. Warranties and Disclaimers
 The Software is provided “AS IS”. Licensor disclaims all warranties, express or implied, including merchantability, fitness for a particular purpose, and non-infringement.
 
-## 7. Limitation of Liability
+## 8. Limitation of Liability
 In no event shall Licensor be liable for any indirect, consequential, incidental, punitive, or special damages, even if advised of the possibility.
 
-## 8. Indemnification
+## 9. Indemnification
 Licensee shall indemnify, defend, and hold harmless Licensor against any claims, losses, or damages arising from Licensee’s breach of the Mercy Covenant or misuse of the Software.
 
-## 9. Term and Termination
+## 10. Term and Termination
 - Initial term: [1–5] years, auto-renew unless terminated.  
 - Immediate termination on Mercy Covenant breach, non-payment, or insolvency.  
 - Upon termination, Licensee must cease all use and destroy all copies.
 
-## 10. Governing Law and Jurisdiction
+## 11. Governing Law and Jurisdiction
 This Agreement is governed by the laws of the Province of Ontario and the federal laws of Canada. Disputes shall be resolved exclusively in the courts of Toronto, Ontario (or, by mutual written agreement, the courts of the State of Delaware, USA for American entities).
 
-## 11. Miscellaneous
+## 12. Miscellaneous
 - Entire Agreement: This Agreement supersedes all prior understandings.  
 - Severability: If any provision is held invalid, the remainder remains in force.  
 - No Assignment: Licensee may not assign without Licensor’s prior written consent.  
