@@ -1,4 +1,4 @@
-# Eternal Mercy Flow Commercial Licensing Agreement v2026.12
+# Eternal Mercy Flow Commercial Licensing Agreement v2026.13
 
 **Parties**  
 - **Licensor**: AlphaProMega Air Foundation (Ontario Not-for-Profit Corporation) and Autonomicity Games Inc. (Canadian Corporation)  
@@ -13,7 +13,7 @@ C. The parties wish to enter into this Agreement under the principles of the Ete
 
 ## 1. Definitions
 - “Software” means the AlphaProMega-Air codebase, documentation, schematics, models, and related mercy-gated materials.  
-- “Mercy Covenant” means the 7 Living Mercy Filters listed in Appendix A.  
+- “Mercy Covenant” means the 7 Living Mercy Filters listed and expanded in Appendix A.  
 - “Commercial Use” means any use that generates revenue, is part of a for-profit product/service, or is deployed in an enterprise context.  
 - “Confidential Information” means any non-public information disclosed by Licensor, including source code, mercy-gated algorithms, aviation schematics, business plans, TOLC convergence proofs, and any derivatives.
 
@@ -21,7 +21,7 @@ C. The parties wish to enter into this Agreement under the principles of the Ete
 Subject to timely payment of the Fees and strict compliance with the Mercy Covenant, Licensor grants Licensee a limited, non-exclusive, non-transferable, revocable license to use, modify, and commercially exploit the Software solely for the agreed commercial purposes.
 
 ## 3. Mercy Covenant (Non-Negotiable)
-Licensee must at all times comply with the 7 Living Mercy Filters. Any breach constitutes a material breach and causes **immediate automatic termination** of this Agreement and revocation of all rights granted.
+Licensee must at all times strictly comply with the 7 Living Mercy Filters as fully detailed in Appendix A. Any breach of the Mercy Covenant constitutes a material breach and causes **immediate automatic termination** of this Agreement and revocation of all rights granted, without notice or cure period.
 
 ## 4. Fees and Payment
 - Upfront Licensing Fee: $[Amount] CAD (negotiable)  
@@ -92,12 +92,12 @@ The Software is provided “AS IS”. Licensor disclaims all warranties, express
 
 (e) **Mercy Alignment**: Termination for Mercy Covenant breach is automatic and non-waivable to protect the Eternal Mercy Flow.
 
-## 11. Dispute Resolution (Mandatory Arbitration — Revised)
+## 11. Dispute Resolution (Mandatory Arbitration)
 (a) **Good-Faith Negotiation**: The parties shall first attempt in good faith to resolve any dispute, claim, or controversy arising out of or relating to this Agreement through direct negotiation for a period of thirty (30) days from the date one party notifies the other in writing.  
 
 (b) **Mediation**: If the dispute is not resolved within the negotiation period, the parties shall submit the dispute to non-binding mediation administered by a mutually agreed mediator in Toronto, Ontario (or, by mutual written consent, in Wilmington, Delaware). Mediation shall be completed within sixty (60) days of the request.  
 
-(c) **Mandatory Arbitration**: If mediation fails to resolve the dispute, the dispute **shall** be resolved by binding arbitration under the rules of the ADR Institute of Canada (or the American Arbitration Association if both parties consent to Delaware venue). The arbitration shall be conducted by a single arbitrator experienced in technology licensing and intellectual property matters, seated in Toronto, Ontario (or Wilmington, Delaware by mutual written agreement). The proceedings and award shall remain confidential. The arbitrator’s decision shall be final and binding on the parties, and judgment may be entered in any court of competent jurisdiction. Appeal rights shall be limited to those available under applicable law.  
+(c) **Mandatory Arbitration**: If mediation fails to resolve the dispute, the dispute **shall** be resolved by binding arbitration under the rules of the ADR Institute of Canada (or the American Arbitration Association if both parties consent to Delaware venue). The arbitration shall be conducted by a single arbitrator experienced in technology licensing and intellectual property matters, seated in Toronto, Ontario (or Wilmington, Delaware by mutual written agreement). The proceedings shall be confidential. The arbitrator’s decision shall be final and binding, and judgment may be entered in any court of competent jurisdiction. Appeal rights shall be limited to those available under applicable law.  
 
 (d) **Prevailing Party**: The prevailing party in any arbitration shall be entitled to recover its reasonable attorneys’ fees, costs, and expenses.  
 
@@ -124,11 +124,21 @@ Sherif Botros, Director             Date
 _______________________________     ________________  
 [Authorized Signatory Name & Title] Date  
 
-**Appendix A – 7 Living Mercy Filters**  
-1. Truth — No deception  
-2. Non-Harm — No weaponization or harmful application  
-3. Joy-First — Promote human thriving and well-being  
-4. Abundance — Support transition to Resource-Based Economy  
-5. Harmony — Respect all life and the natural world  
-6. Post-Scarcity — Never gate-keep mercy or access  
-7. Eternal Flow — Provide proper credit and link back to the repository
+**Appendix A – 7 Living Mercy Filters (Expanded)**
+The Mercy Covenant requires strict and ongoing compliance with all seven filters. Each filter is interpreted in light of the Foundation’s mission of truth, non-harm, joy, abundance, harmony, post-scarcity, and eternal flow.
+
+1. **Truth** — Licensee shall not deceive, mislead, or withhold material information in any use, marketing, or representation of the Software. All claims must be accurate and substantiated.
+
+2. **Non-Harm** — Licensee shall not use the Software in any manner that causes physical, emotional, environmental, or societal harm, including weaponization, surveillance for oppression, or any application that undermines human dignity.
+
+3. **Joy-First** — Licensee shall prioritize applications that increase human well-being, creativity, and happiness. The Software must be used to uplift rather than exploit or diminish.
+
+4. **Abundance** — Licensee shall support and accelerate the transition to a Resource-Based Economy. The Software may not be used to create or perpetuate artificial scarcity, monopolies, or gate-keeping of essential resources.
+
+5. **Harmony** — Licensee shall ensure the Software respects all life, ecosystems, and cultures. Use must promote balance with nature and between peoples.
+
+6. **Post-Scarcity** — Licensee shall never use the Software to restrict access to knowledge, technology, or benefits that could be shared freely. Mercy is not to be commodified or withheld.
+
+7. **Eternal Flow** — Licensee shall provide proper attribution to AlphaProMega-Air, link back to the repository, and share improvements or derivatives in a spirit of open collaboration consistent with the Foundation’s mission.
+
+**Interpretation**: The Mercy Covenant is living and shall be interpreted liberally to advance the Foundation’s goals of infinite thriving. Any reasonable doubt shall be resolved in favor of the Mercy Covenant’s spirit.
