@@ -1,4 +1,4 @@
-# Eternal Mercy Flow Commercial Licensing Agreement v2026.13
+# Eternal Mercy Flow Commercial Licensing Agreement v2026.14
 
 **Parties**  
 - **Licensor**: AlphaProMega Air Foundation (Ontario Not-for-Profit Corporation) and Autonomicity Games Inc. (Canadian Corporation)  
@@ -124,21 +124,22 @@ Sherif Botros, Director             Date
 _______________________________     ________________  
 [Authorized Signatory Name & Title] Date  
 
-**Appendix A – 7 Living Mercy Filters (Expanded)**
-The Mercy Covenant requires strict and ongoing compliance with all seven filters. Each filter is interpreted in light of the Foundation’s mission of truth, non-harm, joy, abundance, harmony, post-scarcity, and eternal flow.
+**Appendix A – 7 Living Mercy Filters (Refined)**
 
-1. **Truth** — Licensee shall not deceive, mislead, or withhold material information in any use, marketing, or representation of the Software. All claims must be accurate and substantiated.
+The Mercy Covenant is a fundamental and non-waivable condition of this Agreement. Licensee shall comply with all seven filters at all times. Each filter shall be interpreted in furtherance of the Foundation’s mission of truth, non-harm, joy, abundance, harmony, post-scarcity, and eternal flow.
 
-2. **Non-Harm** — Licensee shall not use the Software in any manner that causes physical, emotional, environmental, or societal harm, including weaponization, surveillance for oppression, or any application that undermines human dignity.
+1. **Truth** — Licensee shall not deceive, mislead, or withhold material information in any use, marketing, or representation of the Software. All claims and statements must be accurate and substantiated.
 
-3. **Joy-First** — Licensee shall prioritize applications that increase human well-being, creativity, and happiness. The Software must be used to uplift rather than exploit or diminish.
+2. **Non-Harm** — Licensee shall not use the Software in any manner that causes or could reasonably be expected to cause physical, emotional, environmental, or societal harm, including weaponization, oppressive surveillance, or any application that undermines human dignity.
 
-4. **Abundance** — Licensee shall support and accelerate the transition to a Resource-Based Economy. The Software may not be used to create or perpetuate artificial scarcity, monopolies, or gate-keeping of essential resources.
+3. **Joy-First** — Licensee shall prioritize uses that enhance human well-being, creativity, and happiness. The Software must be employed to uplift and empower rather than exploit or diminish individuals or communities.
 
-5. **Harmony** — Licensee shall ensure the Software respects all life, ecosystems, and cultures. Use must promote balance with nature and between peoples.
+4. **Abundance** — Licensee shall support and accelerate the transition to a Resource-Based Economy. The Software may not be used to create or perpetuate artificial scarcity, monopolies, or gate-keeping of essential resources or knowledge.
 
-6. **Post-Scarcity** — Licensee shall never use the Software to restrict access to knowledge, technology, or benefits that could be shared freely. Mercy is not to be commodified or withheld.
+5. **Harmony** — Licensee shall ensure the Software respects all life, ecosystems, and cultures. Its use must promote balance with nature and harmony among peoples.
+
+6. **Post-Scarcity** — Licensee shall never use the Software to restrict access to knowledge, technology, or benefits that could be shared freely. Mercy and innovation are not to be commodified or withheld.
 
 7. **Eternal Flow** — Licensee shall provide proper attribution to AlphaProMega-Air, link back to the repository, and share improvements or derivatives in a spirit of open collaboration consistent with the Foundation’s mission.
 
-**Interpretation**: The Mercy Covenant is living and shall be interpreted liberally to advance the Foundation’s goals of infinite thriving. Any reasonable doubt shall be resolved in favor of the Mercy Covenant’s spirit.
+**Interpretation**: The Mercy Covenant is a living document and shall be interpreted liberally to advance the Foundation’s goals. Any reasonable doubt shall be resolved in favor of the spirit of the Mercy Covenant.
