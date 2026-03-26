@@ -1,4 +1,4 @@
-# Eternal Mercy Flow Commercial Licensing Agreement v2026.2
+# Eternal Mercy Flow Commercial Licensing Agreement v2026.3
 
 **Parties**  
 - **Licensor**: AlphaProMega Air Foundation (Ontario Not-for-Profit Corporation) and Autonomicity Games Inc. (Canadian Corporation)  
@@ -32,7 +32,7 @@ Licensee must at all times comply with the 7 Living Mercy Filters. Any breach co
 ## 5. Intellectual Property Rights
 Licensor retains all right, title, and interest in the Software and any derivatives. Licensee obtains no ownership rights and may not sublicense except as expressly approved in writing.
 
-## 6. Confidentiality (New)
+## 6. Confidentiality
 (a) **Obligation**: Licensee shall hold all Confidential Information in strict confidence and shall not disclose, copy, or use it except as strictly necessary to exercise the rights granted under this Agreement.  
 (b) **Standard of Care**: At least the same degree of care used to protect its own confidential information (but no less than reasonable care).  
 (c) **Exceptions**: Information is not Confidential if it (i) is or becomes publicly available through no fault of Licensee, (ii) was rightfully known to Licensee prior to disclosure, (iii) is independently developed by Licensee without use of Licensor’s information, or (iv) is required to be disclosed by law (with prompt notice to Licensor).  
@@ -49,10 +49,24 @@ In no event shall Licensor be liable for any indirect, consequential, incidental
 ## 9. Indemnification
 Licensee shall indemnify, defend, and hold harmless Licensor against any claims, losses, or damages arising from Licensee’s breach of the Mercy Covenant or misuse of the Software.
 
-## 10. Term and Termination
-- Initial term: [1–5] years, auto-renew unless terminated.  
-- Immediate termination on Mercy Covenant breach, non-payment, or insolvency.  
-- Upon termination, Licensee must cease all use and destroy all copies.
+## 10. Term and Termination (Revised & Expanded)
+(a) **Term**: The initial term of this Agreement is [1–5] years from the Effective Date and shall automatically renew for successive one-year periods unless either party gives written notice of non-renewal at least ninety (90) days prior to the end of the then-current term.  
+
+(b) **Termination Events**:  
+   - **Immediate Termination** (no cure period):  
+     - Any breach of the Mercy Covenant  
+     - Insolvency, bankruptcy, or assignment for the benefit of creditors of Licensee  
+     - Material breach of Confidentiality or Intellectual Property Rights  
+   - **Termination with Notice**: Licensor may terminate upon thirty (30) days’ written notice for any other material breach (including non-payment) if the breach is not cured within that period.  
+
+(c) **Post-Termination Obligations**:  
+   - Licensee must immediately cease all use of the Software and destroy or return all copies.  
+   - Licensee must pay all outstanding Fees and Royalties within thirty (30) days.  
+   - All licenses granted terminate automatically.  
+
+(d) **Survival**: Sections 5 (IP Rights), 6 (Confidentiality), 8 (Limitation of Liability), 9 (Indemnification), and 10(d) survive termination or expiration.
+
+(e) **Mercy Alignment**: Termination for Mercy Covenant breach is automatic and non-waivable to protect the Eternal Mercy Flow.
 
 ## 11. Governing Law and Jurisdiction
 This Agreement is governed by the laws of the Province of Ontario and the federal laws of Canada. Disputes shall be resolved exclusively in the courts of Toronto, Ontario (or, by mutual written agreement, the courts of the State of Delaware, USA for American entities).
