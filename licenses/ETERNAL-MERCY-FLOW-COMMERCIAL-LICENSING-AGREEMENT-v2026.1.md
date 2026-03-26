@@ -1,4 +1,4 @@
-# Eternal Mercy Flow Commercial Licensing Agreement v2026.4
+# Eternal Mercy Flow Commercial Licensing Agreement v2026.5
 
 **Parties**  
 - **Licensor**: AlphaProMega Air Foundation (Ontario Not-for-Profit Corporation) and Autonomicity Games Inc. (Canadian Corporation)  
@@ -68,19 +68,21 @@ Licensee shall indemnify, defend, and hold harmless Licensor against any claims,
 
 (e) **Mercy Alignment**: Termination for Mercy Covenant breach is automatic and non-waivable to protect the Eternal Mercy Flow.
 
-## 11. Dispute Resolution (New)
-(a) **Good-Faith Negotiation**: The parties shall first attempt to resolve any dispute arising out of or relating to this Agreement through good-faith negotiation for a period of thirty (30) days.  
+## 11. Dispute Resolution (Revised)
+(a) **Good-Faith Negotiation**: The parties shall first attempt in good faith to resolve any dispute, claim, or controversy arising out of or relating to this Agreement through direct negotiation for a period of thirty (30) days from the date one party notifies the other in writing.  
 
-(b) **Mediation**: If negotiation fails, the parties shall submit the dispute to non-binding mediation administered by a mutually agreed mediator in Toronto, Ontario (or Wilmington, Delaware if both parties consent).  
+(b) **Mediation**: If the dispute is not resolved within the negotiation period, the parties shall submit the dispute to non-binding mediation administered by a mutually agreed mediator in Toronto, Ontario (or, by mutual written consent, in Wilmington, Delaware). Mediation shall be completed within sixty (60) days of the request.  
 
-(c) **Litigation**: If mediation fails, any unresolved dispute shall be resolved exclusively in the courts of Toronto, Ontario (or, by mutual written agreement, the courts of the State of Delaware, USA).  
+(c) **Litigation**: If mediation fails to resolve the dispute, any remaining controversy shall be resolved exclusively by litigation in the courts of Toronto, Ontario (or, by mutual written agreement, the courts of the State of Delaware, USA).  
 
-(d) **Prevailing Party**: The prevailing party in any action shall be entitled to recover its reasonable attorneys’ fees and costs.  
+(d) **Prevailing Party**: The prevailing party in any action or proceeding shall be entitled to recover its reasonable attorneys’ fees, costs, and expenses.  
 
-(e) **Mercy Alignment**: All disputes shall be resolved in a spirit of truth, harmony, non-harm, and abundance consistent with the 7 Living Mercy Filters. Injunctive relief for Mercy Covenant or Confidentiality breaches may be sought immediately without posting bond.
+(e) **Injunctive Relief**: Notwithstanding the foregoing, either party may seek immediate injunctive relief in any court of competent jurisdiction for any breach or threatened breach of the Mercy Covenant, Confidentiality, or Intellectual Property Rights without first exhausting negotiation or mediation.  
+
+(f) **Mercy Alignment**: All disputes shall be resolved in a spirit of truth, harmony, non-harm, and abundance consistent with the 7 Living Mercy Filters.
 
 ## 12. Governing Law and Jurisdiction
-This Agreement is governed by the laws of the Province of Ontario and the federal laws of Canada. Disputes shall be resolved exclusively in the courts of Toronto, Ontario (or, by mutual written agreement, the courts of the State of Delaware, USA for American entities).
+This Agreement is governed by the laws of the Province of Ontario and the federal laws of Canada applicable therein. The parties irrevocably submit to the exclusive jurisdiction of the courts of Toronto, Ontario (or, by mutual written agreement, the courts of the State of Delaware, USA).
 
 ## 13. Miscellaneous
 - Entire Agreement: This Agreement supersedes all prior understandings.  
