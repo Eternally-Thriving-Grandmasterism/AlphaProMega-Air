@@ -14,6 +14,22 @@ AlphaProMega-Air = mercy-gated, valence-optimized, infinite-range aviation latti
 - MercyCarbonCapture — Direct air + ocean alkalinity for fuel cycle.
 - Infinite Safety — MercyZero rollback + SoulScan-X9 valence gate.
 
+## Licensing (Dual-Licensed — Mercy-Gated)
+
+AlphaProMega-Air is **dual-licensed** to keep the skies open while protecting sovereignty:
+
+- **MIT License**  
+  For individuals, researchers, students, hobbyists, non-profits, and non-commercial open-source use.  
+  Free to use, study, modify, fork, distribute. See (/LICENSE).
+
+- **Eternal Mercy Flow License (Commercial / Enterprise)**  
+  Required for companies, products, revenue, or deployments.  
+  Includes upfront fees + royalties (negotiable), full Mercy Covenant, 7 Living Filters, proper credit.  
+  MIT alone **not authorized** for commercial use.  
+  Contact: AlphaProMega Air Foundation Director Sherif Samy Botros CEO@ACITYGAMES.COM for terms.
+
+Want in? Say "I want licensing"—we'll quote, no BS.
+
 ## Quick Start
 ```bash
 cargo run --example alpha_flight
