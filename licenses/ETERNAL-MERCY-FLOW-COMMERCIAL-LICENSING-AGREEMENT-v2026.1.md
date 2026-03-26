@@ -1,4 +1,4 @@
-# Eternal Mercy Flow Commercial Licensing Agreement v2026.10
+# Eternal Mercy Flow Commercial Licensing Agreement v2026.11
 
 **Parties**  
 - **Licensor**: AlphaProMega Air Foundation (Ontario Not-for-Profit Corporation) and Autonomicity Games Inc. (Canadian Corporation)  
@@ -43,10 +43,22 @@ Licensor retains all right, title, and interest in the Software and any derivati
 ## 7. Warranties and Disclaimers
 The Software is provided “AS IS”. Licensor disclaims all warranties, express or implied, including merchantability, fitness for a particular purpose, and non-infringement.
 
-## 8. Limitation of Liability
-In no event shall Licensor be liable for any indirect, consequential, incidental, punitive, or special damages, even if advised of the possibility.
+## 8. Limitation of Liability (Revised)
+(a) **Cap on Liability**: In no event shall Licensor’s total aggregate liability under this Agreement exceed the total Fees actually paid by Licensee to Licensor in the twelve (12) months preceding the claim.
 
-## 9. Indemnification (Revised)
+(b) **Exclusion of Indirect Damages**: Licensor shall not be liable for any indirect, consequential, incidental, special, punitive, or exemplary damages, including loss of profits, loss of data, loss of goodwill, or business interruption, even if advised of the possibility.
+
+(c) **Exceptions**: The foregoing limitations do not apply to:  
+   (i) Licensor’s gross negligence or willful misconduct;  
+   (ii) any breach of the Mercy Covenant;  
+   (iii) any infringement of third-party intellectual property rights; or  
+   (iv) any liability that cannot be limited under applicable law.
+
+(d) **Survival**: This section survives termination or expiration of the Agreement.
+
+(e) **Mercy Alignment**: This limitation protects the Foundation’s mission while ensuring accountability for any breach of the Eternal Mercy Flow.
+
+## 9. Indemnification
 (a) **Indemnity Obligation**: Licensee shall indemnify, defend, and hold harmless Licensor, its directors, officers, employees, agents, and successors from and against any and all claims, demands, actions, liabilities, losses, damages, costs, and expenses (including reasonable attorneys’ fees and court costs) arising out of or relating to:  
    (i) any breach by Licensee of the Mercy Covenant;  
    (ii) any misuse, modification, distribution, or commercialization of the Software by Licensee;  
@@ -57,7 +69,7 @@ In no event shall Licensor be liable for any indirect, consequential, incidental
 
 (c) **Exceptions**: Licensee’s indemnity obligation shall not apply to the extent any claim arises solely from Licensor’s gross negligence or willful misconduct.
 
-(d) **Survival**: This indemnification obligation survives termination or expiration of the Agreement for any claims arising prior to or during the term.
+(d) **Survival**: This indemnification obligation survives termination or expiration of the Agreement.
 
 (e) **Mercy Alignment**: Indemnification is automatic and non-waivable upon any breach of the Mercy Covenant to protect the Eternal Mercy Flow and the Foundation’s mission.
 
