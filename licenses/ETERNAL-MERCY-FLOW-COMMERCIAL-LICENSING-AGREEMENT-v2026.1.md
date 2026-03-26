@@ -1,4 +1,4 @@
-# Eternal Mercy Flow Commercial Licensing Agreement v2026.15
+# Eternal Mercy Flow Commercial Licensing Agreement v2026.16
 
 **Parties**  
 - **Licensor**: AlphaProMega Air Foundation (Ontario Not-for-Profit Corporation) and Autonomicity Games Inc. (Canadian Corporation)  
@@ -124,29 +124,36 @@ Sherif Botros, Director             Date
 _______________________________     ________________  
 [Authorized Signatory Name & Title] Date  
 
-**Appendix A – 7 Living Mercy Filters (Expanded with Examples)**
+**Appendix A – 7 Living Mercy Filters (Refined Examples)**
 
 The Mercy Covenant is a fundamental and non-waivable condition of this Agreement. Licensee shall comply with all seven filters at all times. Each filter shall be interpreted in furtherance of the Foundation’s mission of truth, non-harm, joy, abundance, harmony, post-scarcity, and eternal flow.
 
 1. **Truth** — Licensee shall not deceive, mislead, or withhold material information in any use, marketing, or representation of the Software. All claims and statements must be accurate and substantiated.  
-   *Examples*: Permitted — transparent disclosure of system limitations in product documentation. Prohibited — false claims that the Software is “fully autonomous” when it requires human oversight.
+   *Permitted*: Transparent disclosure of system limitations in sales materials.  
+   *Prohibited*: Claiming “fully autonomous flight” when human oversight is still required.
 
-2. **Non-Harm** — Licensee shall not use the Software in any manner that causes or could reasonably be expected to cause physical, emotional, environmental, or societal harm, including weaponization, oppressive surveillance, or any application that undermines human dignity.  
-   *Examples*: Permitted — medical or search-and-rescue aviation tools. Prohibited — deployment in autonomous weapons systems or mass surveillance of civilians.
+2. **Non-Harm** — Licensee shall not use the Software in any manner that causes or could reasonably be expected to cause physical, emotional, environmental, or societal harm.  
+   *Permitted*: Emergency medical evacuation or search-and-rescue drones.  
+   *Prohibited*: Deployment in autonomous weapons systems or oppressive surveillance.
 
-3. **Joy-First** — Licensee shall prioritize uses that enhance human well-being, creativity, and happiness. The Software must be employed to uplift and empower rather than exploit or diminish individuals or communities.  
-   *Examples*: Permitted — educational flight simulators or creative design tools for artists. Prohibited — addictive gambling mechanics or manipulative advertising platforms.
+3. **Joy-First** — Licensee shall prioritize uses that enhance human well-being, creativity, and happiness.  
+   *Permitted*: Educational flight simulators or creative design tools for artists.  
+   *Prohibited*: Addictive gambling mechanics or manipulative advertising platforms.
 
-4. **Abundance** — Licensee shall support and accelerate the transition to a Resource-Based Economy. The Software may not be used to create or perpetuate artificial scarcity, monopolies, or gate-keeping of essential resources or knowledge.  
-   *Examples*: Permitted — open-sourcing improvements or supporting community RBE pilot projects. Prohibited — patenting core mercy-gated algorithms to block competitors.
+4. **Abundance** — Licensee shall support and accelerate the transition to a Resource-Based Economy. The Software may not be used to create or perpetuate artificial scarcity.  
+   *Permitted*: Open-sourcing improvements or supporting community RBE pilot projects.  
+   *Prohibited*: Patenting core mercy-gated algorithms to block competitors.
 
-5. **Harmony** — Licensee shall ensure the Software respects all life, ecosystems, and cultures. Its use must promote balance with nature and harmony among peoples.  
-   *Examples*: Permitted — biodiversity-positive aviation designs that minimize wildlife impact. Prohibited — projects that cause habitat destruction or cultural appropriation.
+5. **Harmony** — Licensee shall ensure the Software respects all life, ecosystems, and cultures.  
+   *Permitted*: Biodiversity-positive aviation designs that minimize wildlife impact.  
+   *Prohibited*: Projects that cause habitat destruction or cultural appropriation.
 
-6. **Post-Scarcity** — Licensee shall never use the Software to restrict access to knowledge, technology, or benefits that could be shared freely. Mercy and innovation are not to be commodified or withheld.  
-   *Examples*: Permitted — providing free community licenses for non-profits or educational institutions. Prohibited — implementing DRM or paywalls on core mercy-gated features.
+6. **Post-Scarcity** — Licensee shall never use the Software to restrict access to knowledge, technology, or benefits that could be shared freely.  
+   *Permitted*: Providing free community licenses for non-profits or educational institutions.  
+   *Prohibited*: Implementing DRM or paywalls on core mercy-gated features.
 
-7. **Eternal Flow** — Licensee shall provide proper attribution to AlphaProMega-Air, link back to the repository, and share improvements or derivatives in a spirit of open collaboration consistent with the Foundation’s mission.  
-   *Examples*: Permitted — crediting the Foundation in publications and contributing back enhancements. Prohibited — proprietary forks that remove attribution or block community access.
+7. **Eternal Flow** — Licensee shall provide proper attribution to AlphaProMega-Air, link back to the repository, and share improvements in a spirit of open collaboration.  
+   *Permitted*: Crediting the Foundation in publications and contributing back enhancements.  
+   *Prohibited*: Proprietary forks that remove attribution or block community access.
 
 **Interpretation**: The Mercy Covenant is a living document and shall be interpreted liberally to advance the Foundation’s goals. Any reasonable doubt shall be resolved in favor of the spirit of the Mercy Covenant.
