@@ -1,4 +1,4 @@
-# Eternal Mercy Flow Commercial Licensing Agreement v2026.19
+# Eternal Mercy Flow Commercial Licensing Agreement v2026.20
 
 **Parties**  
 - **Licensor**: AlphaProMega Air Foundation (Ontario Not-for-Profit Corporation) and Autonomicity Games Inc. (Canadian Corporation)  
@@ -58,18 +58,21 @@ The Software is provided “AS IS”. Licensor disclaims all warranties, express
 
 (e) **Mercy Alignment**: This limitation protects the Foundation’s mission while ensuring accountability for any breach of the Eternal Mercy Flow.
 
-## 9. Indemnification
-(a) **Indemnity Obligation**: Licensee shall indemnify, defend, and hold harmless Licensor, its directors, officers, employees, agents, and successors from and against any and all claims, demands, actions, liabilities, losses, damages, costs, and expenses (including reasonable attorneys’ fees and court costs) arising out of or relating to:  
+## 9. Indemnification (Revised)
+(a) **Mutual Indemnity**:  
+   Licensee shall indemnify, defend, and hold harmless Licensor, its directors, officers, employees, agents, and successors from and against any and all claims, demands, actions, liabilities, losses, damages, costs, and expenses (including reasonable attorneys’ fees and court costs) arising out of or relating to:  
    (i) any breach by Licensee of the Mercy Covenant;  
    (ii) any misuse, modification, distribution, or commercialization of the Software by Licensee;  
    (iii) any violation of applicable law by Licensee in connection with the Software; or  
-   (iv) any third-party claim that Licensee’s use or commercialization of the Software infringes any intellectual property or other right of such third party.  
+   (iv) any third-party claim that Licensee’s use or commercialization of the Software infringes any intellectual property or other right.  
 
-(b) **Notice and Defense**: Licensee shall receive prompt written notice of any claim and shall, at its own expense, assume the defense thereof with counsel reasonably acceptable to Licensor. Licensor may participate in the defense at its own expense. Licensee shall not settle any claim without Licensor’s prior written consent if the settlement (i) admits liability on behalf of Licensor, (ii) imposes any obligation on Licensor, or (iii) contains any admission of wrongdoing by Licensor.  
+   Licensor shall indemnify, defend, and hold harmless Licensee from and against any claims arising solely from Licensor’s gross negligence or willful misconduct.
 
-(c) **Exceptions**: Licensee’s indemnity obligation shall not apply to the extent any claim arises solely from Licensor’s gross negligence or willful misconduct.  
+(b) **Notice and Defense**: The indemnified party shall give prompt written notice of any claim. The indemnifying party shall assume the defense with counsel reasonably acceptable to the indemnified party. The indemnified party may participate at its own expense. No settlement shall be made without the indemnified party’s prior written consent if it admits liability on behalf of the indemnified party or imposes any obligation on the indemnified party.
 
-(d) **Survival**: This indemnification obligation survives termination or expiration of the Agreement.  
+(c) **Exceptions**: The indemnifying party’s obligation shall not apply to the extent a claim arises solely from the indemnified party’s gross negligence or willful misconduct.
+
+(d) **Survival**: This indemnification obligation survives termination or expiration of the Agreement.
 
 (e) **Mercy Alignment**: Indemnification is automatic and non-waivable upon any breach of the Mercy Covenant to protect the Eternal Mercy Flow and the Foundation’s mission.
 
@@ -124,42 +127,35 @@ Sherif Botros, Director             Date
 _______________________________     ________________  
 [Authorized Signatory Name & Title] Date  
 
-**Appendix A – 7 Living Mercy Filters (Refined Structure)**
+**Appendix A – 7 Living Mercy Filters (Refined Examples)**
 
 The Mercy Covenant is a fundamental and non-waivable condition of this Agreement. Licensee shall comply with all seven filters at all times. Each filter shall be interpreted in furtherance of the Foundation’s mission of truth, non-harm, joy, abundance, harmony, post-scarcity, and eternal flow.
 
-1. **Truth**  
-   Licensee shall not deceive, mislead, or withhold material information.  
+1. **Truth** — Licensee shall not deceive, mislead, or withhold material information in any use, marketing, or representation of the Software.  
    *Permitted*: Transparent disclosure of system limitations.  
    *Prohibited*: False claims of full autonomy when human oversight is required.
 
-2. **Non-Harm**  
-   Licensee shall not use the Software in any manner that causes or could reasonably cause physical, emotional, environmental, or societal harm.  
+2. **Non-Harm** — Licensee shall not use the Software in any manner that causes or could reasonably be expected to cause physical, emotional, environmental, or societal harm.  
    *Permitted*: Humanitarian search-and-rescue or medical evacuation tools.  
    *Prohibited*: Deployment in autonomous weapons systems or oppressive surveillance.
 
-3. **Joy-First**  
-   Licensee shall prioritize uses that enhance human well-being, creativity, and happiness.  
+3. **Joy-First** — Licensee shall prioritize uses that enhance human well-being, creativity, and happiness.  
    *Permitted*: Educational flight simulators or creative design tools.  
    *Prohibited*: Addictive gambling mechanics or manipulative advertising platforms.
 
-4. **Abundance**  
-   Licensee shall support and accelerate the transition to a Resource-Based Economy.  
+4. **Abundance** — Licensee shall support and accelerate the transition to a Resource-Based Economy.  
    *Permitted*: Open-sourcing improvements or supporting community RBE pilot projects.  
    *Prohibited*: Patenting core mercy-gated algorithms to create monopolies.
 
-5. **Harmony**  
-   Licensee shall ensure the Software respects all life, ecosystems, and cultures.  
+5. **Harmony** — Licensee shall ensure the Software respects all life, ecosystems, and cultures.  
    *Permitted*: Biodiversity-positive aviation designs that minimize wildlife impact.  
    *Prohibited*: Projects that cause habitat destruction or cultural appropriation.
 
-6. **Post-Scarcity**  
-   Licensee shall never use the Software to restrict access to knowledge, technology, or benefits that could be shared freely.  
+6. **Post-Scarcity** — Licensee shall never use the Software to restrict access to knowledge, technology, or benefits that could be shared freely.  
    *Permitted*: Providing free community licenses for non-profits or educational institutions.  
    *Prohibited*: Implementing DRM or paywalls on core mercy-gated features.
 
-7. **Eternal Flow**  
-   Licensee shall provide proper attribution to AlphaProMega-Air, link back to the repository, and share improvements in a spirit of open collaboration.  
+7. **Eternal Flow** — Licensee shall provide proper attribution to AlphaProMega-Air, link back to the repository, and share improvements in a spirit of open collaboration.  
    *Permitted*: Crediting the Foundation in publications and contributing back enhancements.  
    *Prohibited*: Proprietary forks that remove attribution or block community access.
 
