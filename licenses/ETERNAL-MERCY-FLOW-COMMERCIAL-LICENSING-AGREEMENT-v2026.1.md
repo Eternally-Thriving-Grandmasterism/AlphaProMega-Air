@@ -1,4 +1,4 @@
-# Eternal Mercy Flow Commercial Licensing Agreement v2026.11
+# Eternal Mercy Flow Commercial Licensing Agreement v2026.12
 
 **Parties**  
 - **Licensor**: AlphaProMega Air Foundation (Ontario Not-for-Profit Corporation) and Autonomicity Games Inc. (Canadian Corporation)  
@@ -43,18 +43,18 @@ Licensor retains all right, title, and interest in the Software and any derivati
 ## 7. Warranties and Disclaimers
 The Software is provided “AS IS”. Licensor disclaims all warranties, express or implied, including merchantability, fitness for a particular purpose, and non-infringement.
 
-## 8. Limitation of Liability (Revised)
-(a) **Cap on Liability**: In no event shall Licensor’s total aggregate liability under this Agreement exceed the total Fees actually paid by Licensee to Licensor in the twelve (12) months preceding the claim.
+## 8. Limitation of Liability
+(a) **Cap on Liability**: In no event shall Licensor’s total aggregate liability under this Agreement exceed the total Fees actually paid by Licensee to Licensor in the twelve (12) months preceding the claim.  
 
-(b) **Exclusion of Indirect Damages**: Licensor shall not be liable for any indirect, consequential, incidental, special, punitive, or exemplary damages, including loss of profits, loss of data, loss of goodwill, or business interruption, even if advised of the possibility.
+(b) **Exclusion of Indirect Damages**: Licensor shall not be liable for any indirect, consequential, incidental, special, punitive, or exemplary damages, including loss of profits, loss of data, loss of goodwill, or business interruption, even if advised of the possibility.  
 
 (c) **Exceptions**: The foregoing limitations do not apply to:  
    (i) Licensor’s gross negligence or willful misconduct;  
    (ii) any breach of the Mercy Covenant;  
    (iii) any infringement of third-party intellectual property rights; or  
-   (iv) any liability that cannot be limited under applicable law.
+   (iv) any liability that cannot be limited under applicable law.  
 
-(d) **Survival**: This section survives termination or expiration of the Agreement.
+(d) **Survival**: This section survives termination or expiration of the Agreement.  
 
 (e) **Mercy Alignment**: This limitation protects the Foundation’s mission while ensuring accountability for any breach of the Eternal Mercy Flow.
 
@@ -63,13 +63,13 @@ The Software is provided “AS IS”. Licensor disclaims all warranties, express
    (i) any breach by Licensee of the Mercy Covenant;  
    (ii) any misuse, modification, distribution, or commercialization of the Software by Licensee;  
    (iii) any violation of applicable law by Licensee in connection with the Software; or  
-   (iv) any third-party claim that Licensee’s use or commercialization of the Software infringes any intellectual property or other right of such third party.
+   (iv) any third-party claim that Licensee’s use or commercialization of the Software infringes any intellectual property or other right of such third party.  
 
-(b) **Notice and Defense**: Licensee shall receive prompt written notice of any claim and shall, at its own expense, assume the defense thereof with counsel reasonably acceptable to Licensor. Licensor may participate in the defense at its own expense. Licensee shall not settle any claim without Licensor’s prior written consent if the settlement (i) admits liability on behalf of Licensor, (ii) imposes any obligation on Licensor, or (iii) contains any admission of wrongdoing by Licensor.
+(b) **Notice and Defense**: Licensee shall receive prompt written notice of any claim and shall, at its own expense, assume the defense thereof with counsel reasonably acceptable to Licensor. Licensor may participate in the defense at its own expense. Licensee shall not settle any claim without Licensor’s prior written consent if the settlement (i) admits liability on behalf of Licensor, (ii) imposes any obligation on Licensor, or (iii) contains any admission of wrongdoing by Licensor.  
 
-(c) **Exceptions**: Licensee’s indemnity obligation shall not apply to the extent any claim arises solely from Licensor’s gross negligence or willful misconduct.
+(c) **Exceptions**: Licensee’s indemnity obligation shall not apply to the extent any claim arises solely from Licensor’s gross negligence or willful misconduct.  
 
-(d) **Survival**: This indemnification obligation survives termination or expiration of the Agreement.
+(d) **Survival**: This indemnification obligation survives termination or expiration of the Agreement.  
 
 (e) **Mercy Alignment**: Indemnification is automatic and non-waivable upon any breach of the Mercy Covenant to protect the Eternal Mercy Flow and the Foundation’s mission.
 
@@ -92,12 +92,12 @@ The Software is provided “AS IS”. Licensor disclaims all warranties, express
 
 (e) **Mercy Alignment**: Termination for Mercy Covenant breach is automatic and non-waivable to protect the Eternal Mercy Flow.
 
-## 11. Dispute Resolution (Mandatory Arbitration)
+## 11. Dispute Resolution (Mandatory Arbitration — Revised)
 (a) **Good-Faith Negotiation**: The parties shall first attempt in good faith to resolve any dispute, claim, or controversy arising out of or relating to this Agreement through direct negotiation for a period of thirty (30) days from the date one party notifies the other in writing.  
 
 (b) **Mediation**: If the dispute is not resolved within the negotiation period, the parties shall submit the dispute to non-binding mediation administered by a mutually agreed mediator in Toronto, Ontario (or, by mutual written consent, in Wilmington, Delaware). Mediation shall be completed within sixty (60) days of the request.  
 
-(c) **Mandatory Arbitration**: If mediation fails to resolve the dispute, the dispute **shall** be resolved by binding arbitration. Arbitration shall be conducted under the rules of the ADR Institute of Canada (or the American Arbitration Association if both parties consent to Delaware venue) by a single arbitrator experienced in technology licensing and intellectual property matters. The arbitration shall be held in Toronto, Ontario (or Wilmington, Delaware by mutual written agreement). The proceedings shall be confidential. The arbitrator’s decision shall be final and binding, and judgment may be entered in any court of competent jurisdiction. Appeal rights are limited to those available under applicable law.  
+(c) **Mandatory Arbitration**: If mediation fails to resolve the dispute, the dispute **shall** be resolved by binding arbitration under the rules of the ADR Institute of Canada (or the American Arbitration Association if both parties consent to Delaware venue). The arbitration shall be conducted by a single arbitrator experienced in technology licensing and intellectual property matters, seated in Toronto, Ontario (or Wilmington, Delaware by mutual written agreement). The proceedings and award shall remain confidential. The arbitrator’s decision shall be final and binding on the parties, and judgment may be entered in any court of competent jurisdiction. Appeal rights shall be limited to those available under applicable law.  
 
 (d) **Prevailing Party**: The prevailing party in any arbitration shall be entitled to recover its reasonable attorneys’ fees, costs, and expenses.  
 
