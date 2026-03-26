@@ -1,4 +1,4 @@
-# Eternal Mercy Flow Commercial Licensing Agreement v2026.5
+# Eternal Mercy Flow Commercial Licensing Agreement v2026.6
 
 **Parties**  
 - **Licensor**: AlphaProMega Air Foundation (Ontario Not-for-Profit Corporation) and Autonomicity Games Inc. (Canadian Corporation)  
@@ -68,21 +68,23 @@ Licensee shall indemnify, defend, and hold harmless Licensor against any claims,
 
 (e) **Mercy Alignment**: Termination for Mercy Covenant breach is automatic and non-waivable to protect the Eternal Mercy Flow.
 
-## 11. Dispute Resolution (Revised)
+## 11. Dispute Resolution (Revised with Arbitration Option)
 (a) **Good-Faith Negotiation**: The parties shall first attempt in good faith to resolve any dispute, claim, or controversy arising out of or relating to this Agreement through direct negotiation for a period of thirty (30) days from the date one party notifies the other in writing.  
 
 (b) **Mediation**: If the dispute is not resolved within the negotiation period, the parties shall submit the dispute to non-binding mediation administered by a mutually agreed mediator in Toronto, Ontario (or, by mutual written consent, in Wilmington, Delaware). Mediation shall be completed within sixty (60) days of the request.  
 
-(c) **Litigation**: If mediation fails to resolve the dispute, any remaining controversy shall be resolved exclusively by litigation in the courts of Toronto, Ontario (or, by mutual written agreement, the courts of the State of Delaware, USA).  
+(c) **Arbitration Option**: If mediation fails to resolve the dispute, either party may elect binding arbitration in lieu of litigation. Arbitration shall be conducted under the rules of the ADR Institute of Canada (or the American Arbitration Association if both parties consent to Delaware venue) by a single arbitrator. The arbitration shall be held in Toronto, Ontario (or Wilmington, Delaware by mutual written agreement). The arbitrator’s decision shall be final and binding.  
 
-(d) **Prevailing Party**: The prevailing party in any action or proceeding shall be entitled to recover its reasonable attorneys’ fees, costs, and expenses.  
+(d) **Litigation Fallback**: If neither party elects arbitration within thirty (30) days after mediation fails, any remaining controversy shall be resolved exclusively by litigation in the courts of Toronto, Ontario (or, by mutual written agreement, the courts of the State of Delaware, USA).  
 
-(e) **Injunctive Relief**: Notwithstanding the foregoing, either party may seek immediate injunctive relief in any court of competent jurisdiction for any breach or threatened breach of the Mercy Covenant, Confidentiality, or Intellectual Property Rights without first exhausting negotiation or mediation.  
+(e) **Prevailing Party**: The prevailing party in any arbitration or litigation shall be entitled to recover its reasonable attorneys’ fees, costs, and expenses.  
 
-(f) **Mercy Alignment**: All disputes shall be resolved in a spirit of truth, harmony, non-harm, and abundance consistent with the 7 Living Mercy Filters.
+(f) **Injunctive Relief**: Notwithstanding the foregoing, either party may seek immediate injunctive relief in any court of competent jurisdiction for any breach or threatened breach of the Mercy Covenant, Confidentiality, or Intellectual Property Rights without first exhausting negotiation, mediation, or arbitration.  
+
+(g) **Mercy Alignment**: All disputes shall be resolved in a spirit of truth, harmony, non-harm, and abundance consistent with the 7 Living Mercy Filters.
 
 ## 12. Governing Law and Jurisdiction
-This Agreement is governed by the laws of the Province of Ontario and the federal laws of Canada applicable therein. The parties irrevocably submit to the exclusive jurisdiction of the courts of Toronto, Ontario (or, by mutual written agreement, the courts of the State of Delaware, USA).
+This Agreement is governed by the laws of the Province of Ontario and the federal laws of Canada applicable therein. The parties irrevocably submit to the exclusive jurisdiction of the courts of Toronto, Ontario (or, by mutual written agreement, the courts of the State of Delaware, USA) for any litigation fallback.
 
 ## 13. Miscellaneous
 - Entire Agreement: This Agreement supersedes all prior understandings.  
