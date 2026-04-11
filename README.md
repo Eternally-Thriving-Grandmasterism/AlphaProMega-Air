@@ -7,9 +7,6 @@ This project was previously under MIT. As of April 11 2026, it is now under the 
 
 AlphaProMega-Air = mercy-gated, valence-optimized, infinite-range aviation lattice — cradle-to-cradle, self-healing, quantum-safe.
 
-![Aviation Blueprint Overlay](assets/aviation_blueprint_overlay.png)
-![Detailed Aircraft Schematics](assets/detailed_aircraft_schematics.png)
-
 ## Core Resonance
 - MercyHybridPropulsion — Electric + BioJet + Hydrogen seamless blend.
 - MercyAirframe — Self-healing lattice weave + morphing wings.
