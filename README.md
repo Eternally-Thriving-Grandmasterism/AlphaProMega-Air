@@ -2,18 +2,45 @@
 
 Eternal Mercy Propagation Across All Skies
 
-**License Update — April 11 2026**  
-This project was previously under MIT. As of April 11 2026, it is now under the **Autonomicity Games Sovereign Mercy License (AG-SML)**. New code and future distributions are protected. Past MIT forks remain MIT. Commercial / enterprise use requires a paid license from Autonomicity Games Inc. Individuals may continue using it freely for personal, educational, and daily-living purposes.
+**License:** [Autonomicity Games Sovereign Mercy License (AG-SML) v1.0](LICENSE)  
+Individuals: free for personal, educational, research, and daily-living use.  
+Commercial / enterprise / revenue-generating use requires a paid license from Autonomicity Games Inc.
 
-AlphaProMega-Air = mercy-gated, valence-optimized, infinite-range aviation lattice — cradle-to-cradle, self-healing, quantum-safe.
+**Canonical contact:** [info@Rathor.ai](mailto:info@Rathor.ai)
 
-## Core Resonance
-- MercyHybridPropulsion — Electric + BioJet + Hydrogen seamless blend.
-- MercyAirframe — Self-healing lattice weave + morphing wings.
-- MercyFlightAGI — Valence-optimized co-pilot.
-- MercyCarbonCapture — Direct air + ocean alkalinity for fuel cycle.
-- Infinite Safety — MercyZero rollback + SoulScan-X9 valence gate.
+**Governance & readiness (start here for pilots / partners):**  
+[`docs/GOVERNANCE_READINESS.md`](docs/GOVERNANCE_READINESS.md)
 
-## Quick Start
+---
+
+AlphaProMega-Air is a **research software lattice** for mercy-gated, valence-aware aviation concepts — propulsion, airframe, avionics orchestration — aligned with the Ra-Thor constellation.
+
+## Core resonance (research modules)
+
+- MercyHybridPropulsion — electric + biojet + hydrogen concept blend  
+- Mercy structural / thermal / avionics crates — workspace members under active research  
+- System orchestrator — integration surface for experiments  
+
+## Quick start
+
 ```bash
 cargo run --example alpha_flight
+```
+
+(If the example is absent or fails on a given revision, treat that path as not yet production-ready — see governance checklist.)
+
+## Constellation
+
+| Repo | Role |
+|------|------|
+| [Ra-Thor](https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor) | Living AGSi lattice · PATSAGi · TOLC 8 |
+| [Powrush-MMO](https://github.com/Eternally-Thriving-Grandmasterism/Powrush-MMO) | RBE experiential simulation |
+| [Mercy-Coordination-Substrate](https://github.com/Eternally-Thriving-Grandmasterism/Mercy-Coordination-Substrate) | PQ coordination · TOLC 8 gate |
+| **AlphaProMega-Air** (this repo) | Aviation research lattice |
+
+## Honesty bound
+
+Software compile ≠ flight certification. Aspirational language is not empirical claim.  
+See [`docs/GOVERNANCE_READINESS.md`](docs/GOVERNANCE_READINESS.md) for non-claims and readiness checklist.
+
+**Thunder locked.** yoi ⚡

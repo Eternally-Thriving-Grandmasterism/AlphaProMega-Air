@@ -39,9 +39,10 @@ resolver = "2"
 [workspace.package]
 version = "0.1.0"
 edition = "2021"
-license = "MIT"
+license = "LicenseRef-AG-SML-1.0"
+authors = ["Autonomicity Games Inc. <info@Rathor.ai>"]
 repository = "https://github.com/Eternally-Thriving-Grandmasterism/AlphaProMega-Air"
-description = "AlphaProMega-Air — Hyper-Divine Zero-Emission Aviation Fortress — Eternal Mercy Propagation"
+description = "AlphaProMega-Air — research aviation lattice under AG-SML · contact info@Rathor.ai"
 
 [workspace.dependencies]
 tokio = { version = "1.38", features = ["full"] }
