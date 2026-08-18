@@ -8,8 +8,8 @@ Commercial / enterprise / revenue-generating use requires a paid license from Au
 
 **Canonical contact:** [info@Rathor.ai](mailto:info@Rathor.ai)
 
-**Governance & readiness (start here for pilots / partners):**  
-[`docs/GOVERNANCE_READINESS.md`](docs/GOVERNANCE_READINESS.md)
+**Governance & readiness:** [`docs/GOVERNANCE_READINESS.md`](docs/GOVERNANCE_READINESS.md)  
+**Cosmic radiation (retrofit + design-in):** [`docs/COSMIC_RADIATION_DESIGN_IN.md`](docs/COSMIC_RADIATION_DESIGN_IN.md)
 
 ---
 
@@ -20,6 +20,7 @@ AlphaProMega-Air is a **research software lattice** for mercy-gated, valence-awa
 - MercyHybridPropulsion — electric + biojet + hydrogen concept blend  
 - Mercy structural / thermal / avionics crates — workspace members under active research  
 - System orchestrator — integration surface for experiments  
+- **Radiation posture** — operational ALARA first; instrumented retrofit only; design-in hydrogenous / BN / LH₂ co-benefit for future frames  
 
 ## Quick start
 
@@ -33,7 +34,7 @@ cargo run --example alpha_flight
 
 | Repo | Role |
 |------|------|
-| [Ra-Thor](https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor) | Living AGSi lattice · PATSAGi · TOLC 8 |
+| [Ra-Thor](https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor) | Living AGSi lattice · PATSAGi · TOLC 8 · radiation doctrine |
 | [Powrush-MMO](https://github.com/Eternally-Thriving-Grandmasterism/Powrush-MMO) | RBE experiential simulation |
 | [Mercy-Coordination-Substrate](https://github.com/Eternally-Thriving-Grandmasterism/Mercy-Coordination-Substrate) | PQ coordination · TOLC 8 gate |
 | **AlphaProMega-Air** (this repo) | Aviation research lattice |
@@ -41,6 +42,6 @@ cargo run --example alpha_flight
 ## Honesty bound
 
 Software compile ≠ flight certification. Aspirational language is not empirical claim.  
-See [`docs/GOVERNANCE_READINESS.md`](docs/GOVERNANCE_READINESS.md) for non-claims and readiness checklist.
+Radiation claims require Δdose, mass penalty, and method — see radiation design-in doc.
 
 **Thunder locked.** yoi ⚡

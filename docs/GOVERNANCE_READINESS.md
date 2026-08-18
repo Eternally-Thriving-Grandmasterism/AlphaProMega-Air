@@ -47,8 +47,6 @@ When any Air subsystem claims safety-critical or abundance-critical authority, e
 **Valence floor (software lattice alignment):** 0.999999 where formal gate evaluation is claimed.  
 **Fail-closed:** on evaluation error, missing evidence, or below-floor valence — do not approve the action.
 
-Reference implementation pattern: Mercy-Coordination-Substrate `tolc8-gate` + Ra-Thor mercy operator algebra. Air may *align* without re-implementing the full Substrate ledger.
-
 ---
 
 ## Explicit non-claims (Restraint)
@@ -58,14 +56,13 @@ Reference implementation pattern: Mercy-Coordination-Substrate `tolc8-gate` + Ra
 - Not unbounded range or “infinite safety” as an empirical claim without evidence  
 - Not a completed independent security or flight-safety audit  
 - Workspace crates may be research-grade; compile success ≠ production proof  
+- **Not a claim of radiation-proof cabins** without measured Δdose, mass penalty, and method  
 
 Marketing language in historical READMEs is aspirational. **This doc governs honesty.**
 
 ---
 
 ## Production readiness checklist (software lattice)
-
-Use before any external pilot, commercial discussion, or safety-critical demo:
 
 ### Identity & license
 - [ ] AG-SML v1.0 stated as governing license for new distributions  
@@ -83,6 +80,15 @@ Use before any external pilot, commercial discussion, or safety-critical demo:
 - [ ] Zero-harm / fail-closed language retained for any “gate” or “AGI co-pilot” feature  
 - [ ] No bypass story for TOLC-aligned checks  
 
+### Cosmic radiation claims (Tier B/C)
+- [ ] Doctrine linked: `docs/COSMIC_RADIATION_DESIGN_IN.md` + Ra-Thor mitigation v1.0  
+- [ ] **Δdose** stated with uncertainty  
+- [ ] **Mass penalty** (or area density) stated  
+- [ ] **Test / simulation method** stated  
+- [ ] Crew vs passenger exposure distinguished  
+- [ ] No fleet-wide high-Z plating proposed as primary path  
+- [ ] Tier A operational ALARA still acknowledged as necessary  
+
 ### Constellation
 - [ ] Cross-links to Ra-Thor for lattice governance when AGSi claims appear  
 - [ ] No silent dependency on unpublished private forks without documented path  
@@ -92,9 +98,10 @@ Use before any external pilot, commercial discussion, or safety-critical demo:
 ## Recommended next high-SNR actions (Air-specific)
 
 1. Keep this file as the honesty surface for pilots and partners.  
-2. When a **named** demo crate is stable, add a one-page `docs/DEMO_<name>.md` with exact commands and non-claims.  
-3. Do not expand quantum-crate surface area without a named mission and evidence plan.  
-4. Entity / CRA / foundation filings stay on the foundation legal track — not in this software checklist.
+2. Execute radiation **Tier C design reviews** using `COSMIC_RADIATION_DESIGN_IN.md` §3.  
+3. When a **named** demo crate is stable, add `docs/DEMO_<name>.md` with exact commands and non-claims.  
+4. Do not expand quantum-crate surface area without a named mission and evidence plan.  
+5. Entity / CRA / foundation filings stay on the foundation legal track — not in this software checklist.
 
 ---
 
