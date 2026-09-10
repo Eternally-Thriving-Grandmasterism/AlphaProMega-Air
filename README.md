@@ -8,6 +8,7 @@ Commercial / enterprise / revenue-generating use requires a paid license from Au
 
 **Canonical contact:** [info@Rathor.ai](mailto:info@Rathor.ai)
 
+**Current status (disk truth — what actually runs):** [`docs/CURRENT-STATUS.md`](docs/CURRENT-STATUS.md)  
 **Governance & readiness:** [`docs/GOVERNANCE_READINESS.md`](docs/GOVERNANCE_READINESS.md)  
 **Cosmic radiation (retrofit + design-in):** [`docs/COSMIC_RADIATION_DESIGN_IN.md`](docs/COSMIC_RADIATION_DESIGN_IN.md)
 
@@ -29,6 +30,8 @@ cargo run --example alpha_flight
 ```
 
 (If the example is absent or fails on a given revision, treat that path as not yet production-ready — see governance checklist.)
+
+This quick start does not currently resolve to a cargo target — see [`docs/CURRENT-STATUS.md`](docs/CURRENT-STATUS.md) §3 for the command that does.
 
 ## Constellation
 
