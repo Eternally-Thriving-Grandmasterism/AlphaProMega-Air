@@ -31,7 +31,8 @@ cargo run --example alpha_flight
 
 (If the example is absent or fails on a given revision, treat that path as not yet production-ready — see governance checklist.)
 
-This quick start does not currently resolve to a cargo target — see [`docs/CURRENT-STATUS.md`](docs/CURRENT-STATUS.md) §3 for the command that does.
+This prints a mercy-gate transcript. It simulates no aerodynamics and is not connected to any
+flight system. See [`docs/CURRENT-STATUS.md`](docs/CURRENT-STATUS.md) for what else does and does not run.
 
 ## Constellation
 
