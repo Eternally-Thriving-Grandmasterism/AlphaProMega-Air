@@ -31,7 +31,7 @@ impl MercyAvionicsRedundancy {
         // Async safety: timeout watchdog
         let vote_result = timeout(Duration::from_millis(50), async {
             let majority = channel_values[channel_values.len() / 2]; // Simplified median voter
-            Ok(majority)
+            majority
         }).await.unwrap_or(0.0);
 
         Ok(format!(
