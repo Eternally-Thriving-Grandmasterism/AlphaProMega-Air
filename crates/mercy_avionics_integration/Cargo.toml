@@ -6,3 +6,4 @@ description = "MercyAvionicsIntegration — Full Fly-by-Wire + Autonomous Mercy 
 
 [dependencies]
 nexi = { path = "../nexi" }
+tokio = { workspace = true }

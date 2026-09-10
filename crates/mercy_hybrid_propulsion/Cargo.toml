@@ -6,3 +6,4 @@ description = "MercyHybridPropulsion — Seamless Hydrogen/Methalox-to-Electric 
 
 [dependencies]
 nexi = { path = "../nexi" }
+tokio = { workspace = true }
