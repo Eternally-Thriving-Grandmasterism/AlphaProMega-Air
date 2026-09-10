@@ -6,7 +6,11 @@ license = "MIT"
 description = "MercyOS-Aviation — MercyOS-Pinnacle Extensions for Eternal Flight Resonance"
 
 [dependencies]
-nexi = { path = "../" }
-mercy_os_principles = { path = "../crates/mercy_os_principles" }
-mercy_flight_agi = { path = "../crates/mercy_flight_agi" }
-tokio = { version = "1.38", features = ["full"] }
+nexi = { path = "../nexi" }
+mercy_flight_agi = { path = "../mercy_flight_agi" }
+tokio = { workspace = true }
+
+# The example lives at the repository root because README.md documents it there.
+[[example]]
+name = "alpha_flight"
+path = "../../examples/alpha_flight.rs"

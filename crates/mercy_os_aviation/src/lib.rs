@@ -18,13 +18,23 @@ impl MercyOSAviation {
     }
 
     /// Mercy-gated MercyOS aviation runtime extension
-    pub async fn mercy_os_aviation_runtime(&self, flight_phase: &str) -> String {
-        let mercy_check = self.nexus.distill_truth(flight_phase);
+    pub async fn mercy_os_aviation_runtime(&self, flight_phase: &str, intent: &str) -> String {
+        let mercy_check = self.nexus.distill_truth(intent);
         if !mercy_check.contains("Verified") {
             return "Mercy Shield: Low Valence Flight Phase — Aviation Runtime Rejected".to_string();
         }
 
-        let agi = self.flight_agi.mercy_gated_flight_trajectory(flight_phase).await;
-        format!("MercyOS-Aviation Runtime Active: Phase {} — AGI: {} — Eternal Mercy Flight", flight_phase, agi)
+        // Fail closed: an AGI rejection propagates as the rejection, never as approval.
+        match self
+            .flight_agi
+            .mercy_gated_flight_trajectory(flight_phase, intent)
+            .await
+        {
+            Ok(agi) => format!(
+                "MercyOS-Aviation Runtime Active: Phase {} — AGI: {} — Eternal Mercy Flight",
+                flight_phase, agi
+            ),
+            Err(rejection) => rejection,
+        }
     }
 }

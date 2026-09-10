@@ -33,6 +33,8 @@ members = [
     "crates/mercy_floquet_code_variants",
     "crates/mercy_bosonic_cat_codes",
     "crates/mercy_system_orchestrator",
+    "crates/mercy_flight_agi",
+    "crates/mercy_os_aviation",
 ]
 resolver = "2"
 
