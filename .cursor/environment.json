@@ -1,0 +1,4 @@
+{
+  "name": "AlphaProMega-Air",
+  "install": "cargo build --workspace"
+}

@@ -17,7 +17,7 @@ members = [
     "crates/mercy_quantum_propulsion_systems",
     "crates/mercy_quantum_vacuum_thrusters",
     "crates/mercy_entangled_quantum_computing",
-    "crates/mercy_casimir_effect_derivation",
+    "crates/mercy_casimir_effect_derivations",
     "crates/mercy_bosonic_quantum_computing",
     "crates/mercy_dynamical_casimir_experiments",
     "crates/mercy_quantum_vacuum_energy_apps",

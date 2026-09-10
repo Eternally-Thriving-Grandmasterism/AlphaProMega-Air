@@ -24,9 +24,9 @@ impl MercyAvionicsIntegration {
         let safe_operation = timeout(Duration::from_millis(100), async {
             let mercy_check = self.nexus.distill_truth(desc);
             if mercy_check.contains("Verified") {
-                Ok(format!("{} sensor streams fused → Eternal Safe Autonomous Flight", sensor_inputs))
+                format!("{} sensor streams fused → Eternal Safe Autonomous Flight", sensor_inputs)
             } else {
-                Err("Mercy Shield: Low Valence — Fallback to Manual".to_string())
+                "Mercy Shield: Low Valence — Fallback to Manual".to_string()
             }
         }).await.unwrap_or_else(|_| "Async Timeout: Mercy Safe Fallback Activated".to_string());
 
